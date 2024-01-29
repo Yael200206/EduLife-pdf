@@ -1,0 +1,142 @@
+{% extends "layouts/layoutD.html" %}
+
+{% block title %}
+insert noticias
+{% endblock %}
+{% block style %}
+
+
+.a {
+    color: #000000;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.h1 {
+    color: #000000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input,
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.center {
+    text-align: center;
+}
+{%endblock%}
+
+
+{% block content %}
+  
+<h1 class="h1">Insertar Noticia</h1>
+<div class="container">
+    <form action="/insDat/noticias" method="POST" id="noticias">
+        <label class="label"for="titulo">Título:</label>
+        <input type="text" id="titulo" name="A0" required><br>
+
+        <label class="label"for="descripcion">Descripción:</label>
+        <textarea id="contenidoN" name="A1" required></textarea><br>
+
+        <label class="label"for="img">URL de la imagen:</label>
+        <input type="text" id="imgN" name="A2" required><br>
+
+        <label class="label"for="fecha">Fecha:</label>
+        <input type="date" id="fecha" name="A3" required><br>
+
+        <input type="submit" value="Guardar">
+    </form>
+</div>
+
+    <h1 class="h1">Inserción de Avisos</h1>
+
+    <div class="container">
+        <form action="/insDat/avisos" method="post">
+            <div class="form-group">
+
+                <label class="label"for="titulo">Título:</label>
+                <input type="text" id="titulo" name="A0" required><br>
+            
+                <label class="label"for="descripcion">Contenido:</label>
+                <textarea id="text" name="A1" required></textarea><br>
+            
+                <label class="label"for="fecha">Fecha:</label>
+                <input type="date" id="fecha" name="A2" required><br>
+            
+                <input type="submit" value="Guardar"> 
+        </form>
+    </div>
+
+    <h1 class="h1">Inserción de Concursos</h1>
+
+    <div class="container">
+        <form action="/insDat/concursos" method="post">
+                <label class="label"for="titulo">Título:</label>
+                <input type="text" id="titulo" name="A0" required><br>
+            
+                <label class="label"for="descripcion">Descripción:</label>
+                <textarea id="text" name="A1" requred></textarea><br>
+            
+                <label for="img">URL de la imagen:</label>
+                <input type="text" id="img" name="A2" required><br>
+            
+                <label class="label"for="fecha">Fecha:</label>
+                <input type="date" id="fecha" name="A3" required><br>
+            
+                <input type="submit" value="Guardar">
+             </form>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/push.js/1.0.8/push.min.js"></script>
+    <script>
+    function push(){
+        var contenido = document.getElementById('contenidoN').value;
+        var formulario = document.getElementById('noticias');
+        Push.Permission.request();
+        Push.create('Noticias',{
+            body: contenido,
+            icon:"",
+            timeout:1500000,
+            vibrate:[100,100,100],
+        });
+        formulario.submit();
+    }
+</script>
+{% endblock %}

@@ -1,0 +1,117 @@
+{% extends "layouts/layoutD.html" %}
+
+{% block title %}
+insert noticias
+{% endblock %}
+{% block style %}
+
+
+.a {
+    color: #000000;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.h1 {
+    color: #000000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input,
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.center {
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+  .verde {
+    background-color: green; /* Cambia el color de fondo a verde */
+    color: white; /* Cambia el color del texto a blanco para mayor contraste */
+  }
+
+  .rojo {
+    background-color: red; /* Cambia el color de fondo a rojo */
+    color: white; /* Cambia el color del texto a blanco para mayor contraste */
+  }
+{%endblock%}
+
+
+{% block content %}
+  
+<h1 class="h1">{{tabla}}</h1>
+<form action="{%if datos%}/edDat/{{tabla}}/{{ide}}{%else%}/insDat/{{tabla}}{%endif%}" method="POST">
+  {% set fin = 0 if comb else 1 %}
+  {% for i in range(1,atributos[1:]|length+fin) %}
+    <h2>{{atributos[i]}}</h2>
+    {% if atributos[i] == "turno" %}
+      <select name="A{{i-1}}">
+        <option value="0">Matutino</option>
+        <option value="1">Vespertino</option>
+      </select>
+    {% else %}
+      <input type="text" {%if datos%} value="{{datos[0][i]}}" {%endif%} name="A{{i-1}}">
+    {% endif %}
+  {% endfor %} 
+  {% if comb %}
+    <h2>{{atributos[-1]}}</h2>
+    <select name="A{{atributos|length-2}}">
+    {% for c in comb %}
+      <option value="{{c[0]}}">{{c[1]}}</option>
+    {% endfor %}
+    </select>
+  {% endif %}
+  <input type="submit" value="Guardar">
+</form>
+
+{% endblock %}

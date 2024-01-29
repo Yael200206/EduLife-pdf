@@ -1,0 +1,68 @@
+{% extends "layouts/layoutapp.html" %}
+
+{% block title %}
+INICIO
+{% endblock %}
+{% block style %}
+
+.img {
+  width: 100vw; /* Ancho completo de la ventana */
+  height: auto; /* Mantiene la proporción original de la imagen */
+  display: block;
+  border-radius:10%;
+  margin-bottom: 20px; /* Espaciado entre la imagen y la tabla */
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+.styled-link {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #3498db;
+  border: 2px solid #2980b9;
+  border-radius: 5px;
+  transition: background-color 0.3s, border-color 0.3s, transform 0.3s;
+}
+
+.styled-link:hover {
+  background-color: #2980b9;
+  border-color: #3498db;
+  transform: scale(1.05);
+}
+{% endblock %}
+
+
+{% block content %}
+
+{% if "155" in parametros['hd']%}
+<div id="contenedor-imagen">
+  <img id="imagen" class="img" src="https://github.com/Yael200206/EduLife-pdf/blob/main/pdf/Croquis%202023%20Agosto23-Enero2024B210823_page-0001%20(1).jpg?raw=true" alt="Imagen">
+</div>
+<a href="DGTIPOCKET\DGTIPOCKET\Croquis 2023 Agosto23-Enero2024B210823.pdf" download="Croquis 2023 Agosto23-Enero2024.pdf">Descargar PDF</a>
+
+
+<a href="/organigrama" class="styled-link">Directorio cetis 155</a>
+
+
+
+
+{% endif %}
+
+
+{% endblock %}

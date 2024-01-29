@@ -1,0 +1,225 @@
+{% extends "layouts/layoutapp.html" %}
+
+{% block title %}
+INICIO
+{% endblock %}
+{% block style %}
+*{
+    font-family: "Trebuchet MS", Arial, sans-serif; /* Cambia la fuente a Trebuchet MS u otra de tu elección */
+
+}
+body {
+    
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+
+    position: absolute;
+    top: 20%;
+    left: 0;
+    padding: 20px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+  
+}
+
+.column {
+    width: 48%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+body {
+   
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+     background-color: rgba(255, 255, 255, 0.5); 
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu7kM3805OTLDNdDdFbi7IX-Exwyf4u7nfA&usqp=CAU');
+   
+   
+    
+
+}
+
+h1, h2 {
+    text-align: center;
+    color: #2e4ead;
+    background-color:#fff;
+    border-radius:10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+/* Estilos para las categorías de productos */
+h2 {
+    border-bottom: 2px solid #2e4ead;
+    padding: 10px;
+}
+
+/* Estilos para los productos y precios */
+.product li {
+    display: flex;
+    justify-content: space-between;
+    background-color:#a5a5a5;
+    border-radius:10px;
+
+}
+
+/* Cambiar el color del precio */
+li span {
+    color: #2e4ead;
+    background-color:#fff;
+}
+
+/* Estilo para resaltar las categorías */
+h2 {
+    background-color: #2e4ead;
+    color: #000;
+}
+
+
+{% endblock %}
+
+{% block content %}
+<div class="item">
+    <div id="content">
+        <div class="column">
+            <div id="header">
+                <h1>Cafeteria Cetis 155</h1>
+            </div>
+            <ul class="product">
+                <li>Taco - $15</li>
+                <li>Burrito - $20</li>
+                <li>Mollete - $20</li>
+                <li>Más Guisado - $20</li>
+                <li>Mollete - $30</li>
+                <li>Más Guisado - $40</li>
+                <li>Hot Dog - $15</li>
+                <li>Torta de Jamón - $25</li>
+                <li>Pizza - $20</li>
+                <li>Changuis - $25</li>
+                <li>Torta de Chorizo - $35</li>
+                <li>Torta con Guisado - $35</li>
+                <li>Hamburguesa - $35</li>
+                <li>Orden de Tacos Dorados - $40</li>
+                <li>Torta de Bistek - $40</li>
+                <li>Ensalada - $35</li>
+                <li>Baguette - $40</li>
+                <li>Chapata - $40</li>
+                <li>Ensalada de Atún - $45</li>
+                <li>Pollo - $50</li>
+                <li>Plato del Día - $60</li>
+            </ul>
+        
+            <h2>Bebidas</h2>
+            <ul class="product">
+                <li>Agua 500ml - $7</li>
+                <li>Té - $15</li>
+                <li>Agua Fresca 1/2 - $15</li>
+                <li>Agua Natural 1L - $15</li>
+                <li>Jugo 500ml - $15</li>
+                <li>Yogurth - $15</li>
+                <li>Café - $15</li>
+                <li>Agua Fresca 1L - $25</li>
+                <li>Jugo Verde - $30</li>
+                <li>Boing - $20</li>
+                <li>Charritas - $20</li>
+                <li>Arizona - $25</li>
+                <li>Peñafiel - $23</li>
+                <li>Gatorade - $35</li>
+                <li>Santa Clara 150ml - $15</li>
+                <li>Santa Clara 250ml - $20</li>
+                <li>Jugo "Al Día" 500ml - $15</li>
+            </ul>
+        
+            <h2>Panadería y Postres</h2>
+            <ul class="product">
+                <li>Pan - $10</li>
+                <li>Galletas - $10</li>
+                <li>Donas - $10</li>
+                <li>Hotcakes - $10</li>
+                <li>Dulce de Leche - $20</li>
+                <li>Gelatina - $15</li>
+                <li>Cupcake - $20</li>
+                <li>Arroz con Leche - $25</li>
+                <li>Fruta - $25</li>
+                <li>Flan - $25</li>
+                <li>Pastel - $35</li>
+                <li>Biónico - $35</li>
+            </ul>
+        
+            
+        </div>
+        <div class="column">
+            <h2>Dulces</h2>
+            <ul class="product">
+                <li>Picafres - $1</li>
+                <li>Tamborcito - $1</li>
+                <li>Mentos - $2</li>
+                <li>Paleta Vero - $5</li>
+                <li>Cremino - $5</li>
+                <li>Tutsipo - $5</li>
+                <li>Rucaleta - $5</li>
+                <li>Picalimón - $5</li>
+                <li>Pulparindo - $5</li>
+                <li>Mazapán - $6</li>
+                <li>Rocaleta - $8</li>
+                <li>Pelón - $10</li>
+                <li>Lucas - $15</li>
+                <li>Kinder - $16</li>
+                <li>Pelonetes - $10</li>
+                <li>Halls - $10</li>
+                <li>Fritos - $10</li>
+                <li>Carlo Quinto - $5</li>
+                <li>Gomita - $15</li>
+                <li>Helados - $25</li>
+                <li>Papa Frita Natural - $20</li>
+                <li>Skittles - $25</li>
+                <li>Snickers - $25</li>
+                <li>Milkyway - $25</li>
+                <li>M&M's - $25</li>
+                <li>Kit Kat - $25</li>
+                <li>Pinguinos - $25</li>
+                <li>Cacahuates - $15</li>
+                <li>Roco - $12</li>
+                <li>Canelitas - $15</li>
+                <li>Trikitrakes - $25</li>
+                <li>Polvores - $15</li>
+                <li>Lords - $18</li>
+                <li>Spongues - $25</li>
+                <li>Donitas - $25</li>
+                <li>Chocoroles - $25</li>
+                <li>Gansito - $20</li>
+                <li>Palomitas - $12</li>
+                <li>Papitas - $15</li>
+                <li>Principes - $25</li>
+            </ul>
+        
+            <h2>Comida Rápida</h2>
+            <ul class="product">
+                <li>Papa a la Francesa - $25</li>
+                <li>Salchipupo - $30</li>
+                <li>Papa Gajo - $35</li>
+                <li>Nuggets - $35</li>
+                <li>Nachos - $25</li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}

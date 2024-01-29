@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Usuario</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        
+        
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 16px;
+            text-decoration: none;
+            color: #3498db;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        .calendario-responsive {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 75%; /* Puedes ajustar este valor según tus necesidades para controlar la relación de aspecto */
+            margin-top:20px;
+            
+        }
+        
+        .calendario-responsive iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 200%;
+            border: 0;
+            border-radius:30px;
+            margin:5px;
+        }
+        
+        .noticias {
+            max-width: 800px;
+            width: 100%;
+        }
+        
+        .noticia {
+            background-color: #ffffff;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        label {
+            color: #333;
+        }
+        
+        .p {
+            color: #666;
+        }
+        
+        .img {
+            max-width: 100%;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        .item{
+            background-color: #fff;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #ecf0f1; /* Color de fondo */
+        }
+        
+        h1 {
+            text-align: center;
+            color: #3498db; /* Azul principal */
+        }
+        
+        form {
+            width: 80%;
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #ffffff; /* Fondo blanco */
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sutil sombra */
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #2980b9; /* Azul más oscuro para etiquetas */
+        }
+        
+        input , select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+            border: 1px solid #3498db; /* Borde del campo de entrada */
+            border-radius: 4px;
+        }
+        
+        .submit {
+            background-color: #3498db; /* Azul principal */
+            color: white;
+            cursor: pointer;
+        }
+        
+        .submit:hover {
+            background-color: #2980b9; /* Cambio de color al pasar el ratón */
+        }
+        
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 16px;
+            text-decoration: none;
+            color: #3498db; /* Azul principal para enlace */
+        }
+        
+        a:hover {
+            text-decoration: underline;
+            color: #2980b9; /* Cambio de color al pasar el ratón */
+        }
+        
+        
+    </style>
+</head>
+<body>
+
+   
+
+    <form action="/insertainfo" method="POST" id="form" onsubmit="return validarFormulario()">
+         <h1>Registro de Usuario</h1>
+        <p class="usuario">Bienvenido, <strong>{{parametros['name']}}</strong></p>
+        <label for="nombre">Ayudanos a terminar de completar tu registro </label>
+        <br>
+        <label for="curp">NOMBRE:</label><br>
+
+        <input type="text" id="nombre" name="xs" value="{{parametros['name']}}" readonly>
+        <br>
+        <label for="curp">CORREO:</label><br>
+        <input type="text" id="nombre" name="xd" value="{{parametros['email']}}" readonly>
+        <br>
+        <label for="curp">CURP:</label>
+        <input type="text" id="curp" name="curp" maxlength="18" pattern="[A-Z0-9]{18}" required>
+        <br>
+        
+        <label for="Grado">Grado:</label>
+        <select id="opciones" name="grado" value='Grado'>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+        </select>
+        <label for="Grupo">Grupo:</label>
+        <br>
+        <select id="opciones" name="grupo" value="Grupo">
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+            <option value="D">D</option>
+            <option value="E">E</option>
+            <option value="F">F</option>
+            <option value="G">G</option>
+            <option value="H">H</option>
+            <option value="I">I</option>
+            <option value="J">J</option>
+            <option value="K">K</option>
+            <option value="L">L</option>
+=        </select>
+        <br>
+
+
+        <input type="submit" value="Registrar" readonly>
+        <a href="/login">Cambiar cuenta</a>
+    </form>
+
+    <br>
+<script>
+    function subir(){
+        var formulario = document.getElementById("form");
+        formulario.submit();
+       
+    }
+
+  function validarFormulario() {
+    var inputValor = document.getElementById('curp').value;
+    var may = /[A-Z]/.test(inputValor);
+    var num = /\d/.test(inputValor);
+    var car = inputValor.length == 18;
+    var min = !/[a-z]/.test(inputValor);
+
+    // Verificar todas las condiciones
+    if (may && num && car && min) {
+        return true;        
+    } else {
+        alert('El curp no cumple con las condiciones especificadas.');
+        return false;
+    }
+  }
+</script>
+
+    
+
+</body>
+
+
+</html>
+
+
+
+

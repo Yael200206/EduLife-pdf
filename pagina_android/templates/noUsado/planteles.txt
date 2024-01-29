@@ -1,0 +1,1930 @@
+<div class="item">
+    <table class="table table-striped table-bordered small">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Estado</th>
+                <th>Plantel</th>
+                <th>Domicilio</th>
+                <th>Teléfono</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>AGUASCALIENTES</td>
+                <td>CBTIS   168</td>
+                <td>RÍO   RHIN S/N, COL. FRACC. COLINAS DEL RÍO, C.P. 20010 AGUASCALIENTES,   AGUASCALIENTES.</td>
+                <td>01   (449) 914-53-79 / 912-49-95, EXT. 11</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>AGUASCALIENTES</td>
+                <td>CBTIS   282</td>
+                <td>AV.   VIÑEDOS RIVIER Y CHATO MORONES, FRACC CARTAGENA 1947, C.P. 20364,   AGUASCALIENTES, AGUASCALIENTES</td>
+                <td>01   (449) 973-64-39 EXT. 100</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>AGUASCALIENTES</td>
+                <td>CEB   6/1</td>
+                <td>AV.   SAN FRANCISCO DE LOS VIVEROS No. 101, COL. FRACC. OJOCALIENTE I, C.P.   20190,<br>
+                AGUASCALIENTES, AGUASCALIENTES.</td>
+                <td>01   (449) 970-30-96 / 252-94-01</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>AGUASCALIENTES</td>
+                <td>CECATI   154</td>
+                <td>LIC.   BENITO JUÁREZ NO. 30, COL. PALO ALTO, C.P. 20675, PABELLÓN DE ARTEAGA,   AGUASCALIENTES,</td>
+                <td>01   (465) 958-07-84</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>AGUASCALIENTES</td>
+                <td>CECATI   186</td>
+                <td>PROLONGACIÓN   INDEPENDENCIA No. 503, COL. LOS   ANGELES, C.P. 20800, CALVILLO; AGUASCALIENTES.</td>
+                <td>01   (495) 956-06-42</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>AGUASCALIENTES</td>
+                <td>CETIS   155</td>
+                <td>AV.   PERSEO NO. 99, COL. FRACCIONAMIENTO PRIMO VERDAD, C.P. 20270, AGUASCALIENTES,   AGUASCALIENTES</td>
+                <td>01   (449) 970-80-55 / 970-80-19</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>BAJA   CALIFORNIA</td>
+                <td>CBTIS   116</td>
+                <td>AV.   ALEJANDRO VON HUMBOLDT S/N, FRACC. NUEVO TIJUANA, COL. MESA DE OTAY, C.P.   22430, TIJUANA, BAJA CALIFORNIA</td>
+                <td>01 (664) 623-37-69 / 623-37-70</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>BAJA CALIFORNIA</td>
+                <td>CECATI 052</td>
+                <td>AV.   GUADALUPE VICTORIA ENTRE QUERETARO Y ZACATECAS, NO. 900 CP. 21960, CIUDAD   MORELOS, MEXICALI, B. C.</td>
+                <td>01   (658) 514-70-89</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>BAJA CALIFORNIA</td>
+                <td>CECATI 084</td>
+                <td>AV.   BRASIL ESQ. C/JAVIER ROJO GÓMEZ S/N, COL. ALIANZA PARA LA PRODUCCIÓN, CP.   21229, MEXICALI, BC</td>
+                <td>01   (686) 565-93-70 / 565-74-97</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>BAJA   CALIFORNIA</td>
+                <td>CETIS   018</td>
+                <td>CALLE   RÍO RHIN Y RÍO PARANÁ S/N, FRACC. VIRREYES, C.P. 21190, MEXICALI, BAJA   CALIFORNIA</td>
+                <td>01   (686) 568-06-22</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>BAJA   CALIFORNIA</td>
+                <td>CETIS   025</td>
+                <td>TÉCNICO   PROFESIONAL Y MORELOS S/N, COL. ALDRETE, C.P. 21430, TECATE, BAJA CALIFORNIA</td>
+                <td>01   (665) 654-17-65 / 654-13-65</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>BAJA   CALIFORNIA</td>
+                <td>CETIS   156</td>
+                <td>AV.   DEL PARQUE S/N, COL. MESA DE OTAY, C.P. 22510, TIJUANA, BAJA CALIFORNIA NORTE</td>
+                <td>01   (664) 623-13-76</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>BAJA   CALIFORNIA</td>
+                <td>CETMar   11</td>
+                <td>KM.   6.5 CARRETERA ENSENADA TIJUANA, APARTADO POSTAL 248, C.P. 22800,   ENSENADA,BAJA CALIFORNIA</td>
+                <td>01   (646) 175-80-96 / 174-45-22 / 174-77-48</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>BAJA   CALIFORNIA</td>
+                <td>P.   FED. <br>
+                LÁZARO CÁRDENAS</td>
+                <td>AV.   PASEO DE LOS HÉROES NÚM. 11161 COL. ZONA RIO, C. C.P. 22010, TIJUANA BAJA   CALIFORNIA</td>
+                <td>01   (664) 686-27-01 / 686-12-97</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>BAJA   CALIFORNIA SUR</td>
+                <td>CBTIS   062</td>
+                <td>JALISCO Y MELITÓN ALBAÑEZ S/N, COL. INFONAVIT, C.P.   23070, LA PAZ, BAJA CALIFORNIA SUR</td>
+                <td>01   (612) 122-69-10 / 122-99-76, EXT. 101</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>BAJA CALIFORNIA SUR</td>
+                <td>CEB 8/2</td>
+                <td>AV.   VENUSTIANO CARRANZA E. HIDALGO, COL. GPE. VICTORIA, CP. 23030, LA PAZ, BCS.</td>
+                <td>01   (612) 122-07-11 / 122-17-41</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>BAJA   CALIFORNIA SUR</td>
+                <td>CECATI   106</td>
+                <td>BLVD.   ANTONIO MIJARES Y VALERIO GONZÁLEZ CANSECO, COL. 1ERO. DE MAYO, C.P 23406,   SAN JOSÉ DEL CABO, B.C.S.</td>
+                <td>01   (624) 146-91-01</td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td>BAJA   CALIFORNIA SUR</td>
+                <td>CETMar   04</td>
+                <td>AV.   INSTITUTO POLITÉCNICO NACIONAL Y CALLE CETMAR, COL. PLAYA PALO DE SANTA RITA,   APARTADO POSTAL 585, C.P. 23096, LA PAZ, BAJA CALIFORNIA SUR</td>
+                <td>01   (612) 122-49-06</td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td>BAJA   CALIFORNIA SUR</td>
+                <td>CETMar   21</td>
+                <td>CALLE   PROFESORA JOSEFINA FLORES S/N, ENTRE ALEMAN Y VICTORIA, COL. MARCELO RUBIO,   APARTADO POSTAL 142, C.P. 23940, GUERRERO NEGRO, BAJA CALIFORNIA SUR</td>
+                <td>01   (615) 157-01-88 / 157-01-55</td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td>CAMPECHE</td>
+                <td>CBTIS   009</td>
+                <td>QUERÉTARO   POR PARAGUAY S/N, COL. SANTA ANA, C.P. 24050, CAMPECHE, CAMPECHE</td>
+                <td>01   (981) 816-70-99</td>
+            </tr>
+            <tr>
+                <td>21</td>
+                <td>CAMPECHE</td>
+                <td>CBTIS 126</td>
+                <td>CALLE   22 A S/N, COL. FÁTIMA C. P. 24902, CALKINI, CAMPECHE.</td>
+                <td>01   (996) 961-02-60</td>
+            </tr>
+            <tr>
+                <td>22</td>
+                <td>CAMPECHE</td>
+                <td>CECATI   050</td>
+                <td>AV.   HÉROES DEL 21 DE ABRIL NÚM. 16, COL. PLAYA NORTE, C.P. 24120, CD. DEL CARMEN,   CAMPECHE</td>
+                <td>01   (938) 382-82-43</td>
+            </tr>
+            <tr>
+                <td>23</td>
+                <td>CAMPECHE</td>
+                <td>CETIS 082</td>
+                <td>CALLE   1, ENTRE 12 Y HERNAN CORTES, COL.   CAÑAVERAL C. P. 24400 CHAMPOTÓN,   CAMPECHE.</td>
+                <td>01   (982) 828-14-29 / 828-10-74</td>
+            </tr>
+            <tr>
+                <td>24</td>
+                <td>CAMPECHE</td>
+                <td>CETMar 29</td>
+                <td>AV.   CENTRAL PONIENTE NO. 19 COL. PUERTO PESQUERO, C.P. 24100, CIUDAD DEL CARMEN,   CAMP.</td>
+                <td>01   (938) 382-68-23 / 164-32-03 / 384-20-72</td>
+            </tr>
+            <tr>
+                <td>25</td>
+                <td>CHIAPAS</td>
+                <td>CBTIS   108</td>
+                <td>KM.   2 CARRETERA COMITÁN-MARGARITAS, COL. COMITÁN DE DOMÍNGUEZ CENTRO, C.P. 30000,   COMITÁN, CHIAPAS.</td>
+                <td>01   (963) 632-01-50 / 632-85-58</td>
+            </tr>
+            <tr>
+                <td>26</td>
+                <td>CHIAPAS</td>
+                <td>CBTIS   170</td>
+                <td>CARRETERA   TONALÁ - PAREDÓN KM. 1, C.P. 30500, TONALÁ, CHIAPAS.</td>
+                <td>01   (966) 663-20-82 / 663-21-91</td>
+            </tr>
+            <tr>
+                <td>27</td>
+                <td>CHIAPAS</td>
+                <td>CECATI   133</td>
+                <td>AV.   OLIMPO, ESQUINA ÍCARO S/N FRACCIONAMIENTO VISTA<br>
+                HERMOSA, BARRIO MARÍA AUXILIADORA, C.P. 29220; SAN CRISTÓBAL DE LAS   CASAS;<br>
+                CHIAPAS</td>
+                <td>01   (967) 678-14-35, EXT. 101</td>
+            </tr>
+            <tr>
+                <td>28</td>
+                <td>CHIAPAS</td>
+                <td>CETIS 136</td>
+                <td>CARRETERA   COMALAPA - CD CUAHUTEMOC KM. 3.5, FRONTERA COMALAPA, CHIAPAS C.P. 30140</td>
+                <td>01   (963) 631-16-76 / 631-00-16</td>
+            </tr>
+            <tr>
+                <td>29</td>
+                <td>CHIAPAS</td>
+                <td>CETIS   137</td>
+                <td>PROLONGACIÓN   DURAZNOS S/N, COL. FRACCIONAMIENTO LOS LAURELES, C.P. 30780, TAPACHULA,   CHIAPAS</td>
+                <td>01   (962) 642-46-09 / 642-49-36</td>
+            </tr>
+            <tr>
+                <td>30</td>
+                <td>CHIAPAS</td>
+                <td>CETIS   138</td>
+                <td>LIBRAMIENTO   NORTE ORIENTE S/N, COL. PASO LIMÓN, C.P. 29040, TUXTLA GUTIÉRREZ, CHIAPAS</td>
+                <td>01   (961) 614-03-39 / 121-22-53</td>
+            </tr>
+            <tr>
+                <td>31</td>
+                <td>CHIAPAS</td>
+                <td>CETMar   24</td>
+                <td>CALZ.   ESCOLLERAS S/N, APARTADO POSTAL NO. 615, C.P. 30700 TAPACHULA, CHIAPAS.</td>
+                <td>01   (962) 698-20-73 / 669-82-73 / 698-22-59</td>
+            </tr>
+            <tr>
+                <td>32</td>
+                <td>CHIHUAHUA</td>
+                <td>CBTIS   122</td>
+                <td>CALLE   20 (SALVADOR ALMANZA GUSTILLOS) NO.   9008, ESQUINA CON CALLE MISAEL NÚÑEZ, COL. DIVISIÓN DEL NORTE, SECTOR 74,   C.P. 31064, CHIHUAHUA, CHIHUAHUA</td>
+                <td>01   (614) 420-10-64 / 420-05-70</td>
+            </tr>
+            <tr>
+                <td>33</td>
+                <td>CHIHUAHUA</td>
+                <td>CBTIS   138</td>
+                <td>INDEPENDENCIA   Y CALLE 11A. S/N, COL. MANUEL LÓPEZ DÁVILA, C.P. 33980, CD. JIMÉNEZ,   CHIHUAHUA</td>
+                <td>01   (629) 542-12-00 / 542-48-46</td>
+            </tr>
+            <tr>
+                <td>34</td>
+                <td>CHIHUAHUA</td>
+                <td>CBTIS   143</td>
+                <td>EDUCACIÓN   TECNOLÓGICA 102 , COL AEROPUERTO, C.P. 33748 CD. CAMARGO,CHIHUAHUA</td>
+                <td>01   (648) 462-21-71 / 462-41-71</td>
+            </tr>
+            <tr>
+                <td>35</td>
+                <td>CHIHUAHUA</td>
+                <td>CBTIS   228</td>
+                <td>Av.   SOLIDARIDAD 3, COL. PRI, CP. 33820,   HIDALGO DEL PARRAL, CHIHUAHUA</td>
+                <td>01   (627) 522-60-81</td>
+            </tr>
+            <tr>
+                <td>36</td>
+                <td>CHIHUAHUA</td>
+                <td>CEB   6/4</td>
+                <td>PRIV.   DE GUADALUPE 106, ESQ. CON VIRGINIA, COL. FRACC. FLORES DEL TEPEYAC, C.P.   33085, CD. DELICIAS CHIHUAHUA</td>
+                <td>01   (639) 472-98-28 / 132-17-61</td>
+            </tr>
+            <tr>
+                <td>37</td>
+                <td>CHIHUAHUA</td>
+                <td>CECATI 121</td>
+                <td>C.   PUERTO MÉXICO #2551 COL. INDUSTRIAL, CP. 32270, CHIHUAHUA, CD. JUÁREZ</td>
+                <td>01   (656) 610-01-53 / 630-42-88</td>
+            </tr>
+            <tr>
+                <td>38</td>
+                <td>CHIHUAHUA</td>
+                <td>CECATI   138</td>
+                <td>NICOLÁS   BRAVO Y ESQ. 2 DE ABRIL S/N, COL. PROGRESO, C.P. 31550, CD. CUAUHTEMÓC,   CHIHUAHUA</td>
+                <td>01(625)   582-54-12 / 581-58-12</td>
+            </tr>
+            <tr>
+                <td>39</td>
+                <td>CHIHUAHUA</td>
+                <td>CETIS   061</td>
+                <td>GENERAL   PEDRO BRACAMONTES Y FRANCISCO I. MADERO NO. 8820, COL. SANTA MARÍA, C.P.   32670, CD. JUÁREZ, CHIHUAHUA</td>
+                <td>01   (656) 631-08-32 / 631-03-58 / 631-03-78</td>
+            </tr>
+            <tr>
+                <td>40</td>
+                <td>CHIHUAHUA</td>
+                <td>CETIS 093</td>
+                <td>AV.   PLAN ALEMÁN NO. 1802, COL. CENTRO, C.P. 31700, NUEVO CASAS GRANDES, CHIH.</td>
+                <td>01   (636) 694-64-17</td>
+            </tr>
+            <tr>
+                <td>41</td>
+                <td>COAHUILA</td>
+                <td>CBTIS 020</td>
+                <td>CALLE   AMADOR CHAPA Y RAMOS ARIZPE S/N, COL. FEDERICO BERRUETO RAMON, C. P. 26759   CD. SABINAS, COAH.</td>
+                <td>01   (861) 612-11-50</td>
+            </tr>
+            <tr>
+                <td>42</td>
+                <td>COAHUILA</td>
+                <td>CBTIS   036</td>
+                <td>COLIMA   S/N, COL. CHAMIZAL, C.P. 25720, MONCLOVA, COAHUILA DE ZARAGOZA,</td>
+                <td>01   (866) 635-17-38</td>
+            </tr>
+            <tr>
+                <td>43</td>
+                <td>COAHUILA</td>
+                <td>CBTIS   054</td>
+                <td>CARRETERA   PRESA LA AMISTAD KM 4.5, COL. ZONA   INDUSTRIAL, C.P. 26200, CD. ACUÑA, COAHUILA</td>
+                <td>01   (877) 773-02-18 / 773-04-96, EXT. 102</td>
+            </tr>
+            <tr>
+                <td>44</td>
+                <td>COAHUILA</td>
+                <td>CBTIS   097</td>
+                <td>CARRETERA   A ZACATECAS KM. 4, COL. AMPLIACIÓN 26 DE MARZO, C. P. 25070 SALTILLO,   COAHUILA.</td>
+                <td>01   (844) 489-39-47 / 417-05-41</td>
+            </tr>
+            <tr>
+                <td>45</td>
+                <td>COAHUILA</td>
+                <td>CBTIS   127</td>
+                <td>CARRETERA   SAN PEDRO - TACUBAYA KM. 2, COL. CHAMIZAL, C. P. 27845, SAN PEDRO, COAHUILA.</td>
+                <td>01   (872) 772-23-83</td>
+            </tr>
+            <tr>
+                <td>46</td>
+                <td>COAHUILA</td>
+                <td>CBTIS   156</td>
+                <td>CARRETERA   TORREÓN-MATAMOROS KM 7, COL. LA JOYA, C.P. 27400, TORREÓN, COAHUILA</td>
+                <td>01   (871) 733-90-44 / 733-58-97</td>
+            </tr>
+            <tr>
+                <td>47</td>
+                <td>COAHUILA</td>
+                <td>CECATI 009</td>
+                <td>BLVD.   HAROLD R. PAPE NUM. 1069, COLONIA LOS PINOS, MONCLOVA, COAHUILA, CP: 25720</td>
+                <td>01   (866) 635-17-59 / 635-61-83</td>
+            </tr>
+            <tr>
+                <td>48</td>
+                <td>COAHUILA</td>
+                <td>CECATI 085</td>
+                <td>ANTIGUA   CARRETERA A. SAN PEDRO S/N, FRENTE A LA CIUDAD INDUSTRIAL DE TORREÓN, CP.   27019, TORREÓN, COAHUILA</td>
+                <td>01   (871) 750-65-21</td>
+            </tr>
+            <tr>
+                <td>49</td>
+                <td>COAHUILA</td>
+                <td>CECATI   111</td>
+                <td>GRAL.   CEPEDA NÚM. 1501, COL. EMILIANO ZAPATA, C.P. 26010, PIEDRAS NEGRAS, COAHUILA</td>
+                <td>01   (878) 782-53-21</td>
+            </tr>
+            <tr>
+                <td>50</td>
+                <td>COAHUILA</td>
+                <td>CECATI 184</td>
+                <td>CALLE   ATENEO OTE. NO. 1461 COL. CENTRO, CP. 25000, SALTILLO, COAHUILA</td>
+                <td>01   (844) 412-93-94 / 410-22-12 / 414-49-74</td>
+            </tr>
+            <tr>
+                <td>51</td>
+                <td>COAHUILA</td>
+                <td>CETIS   048</td>
+                <td>MANZANA   45 S/N, COL. MAGISTERIAL ESTATAL SECCIÓN 38, C.P. 25294, SALTILLO, COAHUILA</td>
+                <td>01   (844) 431-01-22 / 431-31-42, EXT. 103</td>
+            </tr>
+            <tr>
+                <td>52</td>
+                <td>COLIMA</td>
+                <td>CBTIS   019</td>
+                <td>AV.   GONZALO DE SANDOVAL NO. 330, COL. LAS VIBORAS, C.P. 28040, COLIMA, COLIMA</td>
+                <td>01   (312) 312-29-97</td>
+            </tr>
+            <tr>
+                <td>53</td>
+                <td>COLIMA</td>
+                <td>CBTIS 285</td>
+                <td>GRAL.   MIGUEL BRACAMONTES S/N COL. VALLE QUERIDO, TECOMÁN , COL.</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>54</td>
+                <td>COLIMA</td>
+                <td>CECATI   034</td>
+                <td>ESQ.   PEDRO FLORES Y EMILIANO ZAPATA S/N, COL. SALAHUA, C.P. 28869, MANZANILLO   COLIMA</td>
+                <td>01   (314) 333-09-75</td>
+            </tr>
+            <tr>
+                <td>55</td>
+                <td>COLIMA</td>
+                <td>CECATI 145</td>
+                <td>AV.   COLIMA 228, COL. DE LOS TRABAJADORES, CP. 28067, COLIMA, COLIMA</td>
+                <td>01   (312) 314-95-59</td>
+            </tr>
+            <tr>
+                <td>56</td>
+                <td>COLIMA</td>
+                <td>CETIS   084</td>
+                <td>CONCHA   NÁCAR 480, FRACC. LA JOYA II, CP 28869, MANZANILLO, COLIMA.</td>
+                <td>01   (314) 332-34-00</td>
+            </tr>
+            <tr>
+                <td>57</td>
+                <td>COLIMA</td>
+                <td>CETMar   12</td>
+                <td>AV.   ING. ARMANDO OCHOA SANCHEZ S/N, APARTADO POSTAL 82, C.P. 28200, MANZANILLO,   COLIMA.</td>
+                <td>01   (314) 335-90-16 / 332-45-60</td>
+            </tr>
+            <tr>
+                <td>58</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CAED   1</td>
+                <td>AV.   MAESTRO RURAL NO. 57-A, COL. UN HOGAR PARA NOSOTROS, C.P. 11330, MIGUEL   HIDALGO, DISTRITO FEDERAL.</td>
+                <td>01   (55) 36-01-10-00</td>
+            </tr>
+            <tr>
+                <td>59</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CAED   2</td>
+                <td>PROGRESO NO. 23, COL. PUEBLO DE AXOTLA C.P. 01030,   ÁLVARO OBREGÓN, DISTRITO FEDERAL</td>
+                <td>01   (55) 36-01-10-00</td>
+            </tr>
+            <tr>
+                <td>60</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CAED   3</td>
+                <td>FRANCISCO   VILLA MANZANA 54 LOTE 1, COL. EJIDOS DE SANTA MARÍA AZTAHUACÁN, C.P. 09570,   IZTAPALAPA, DISTRITO FEDERAL</td>
+                <td>01   (55) 36-01-10-00</td>
+            </tr>
+            <tr>
+                <td>61</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CAED   4</td>
+                <td>JOSÉ   MARÍA RICO NO. 221, COL. DEL VALLE,   C.P. 03100, BENITO JUÁREZ, DISTRITO FEDERAL</td>
+                <td>01   (55) 36-01-10-00</td>
+            </tr>
+            <tr>
+                <td>62</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CAED   5</td>
+                <td>PROLONGACIÓN   LUCAS ALAMÁN NO. 11, ESQUINA SUR 89, COL. DEL PARQUE, C.P. 15960, VENUSTIANO CARRANZA, DISTRITO FEDERAL</td>
+                <td>01   (55) 36-01-10-00</td>
+            </tr>
+            <tr>
+                <td>63</td>
+                <td>DISTRITO FEDERAL</td>
+                <td>CAED 6</td>
+                <td>AV.   EMILIANO ZAPATA 300, COL. SANTA CRUZ ATOYAC, BENITO JUÁREZ, DISTRITO FEDERAL</td>
+                <td>01   (55) 36-01-10-00</td>
+            </tr>
+            <tr>
+                <td>64</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CECATI   011</td>
+                <td>CALZ.   AZCAPOTZALCO-LA VILLA Nº. 304 BIS, COL. STA CATARINA, C.P. 02250,   AZCAPOTZALCO, DISTRITO FEDERAL</td>
+                <td>(55)   53-19-46-45 / 53-94-52-14</td>
+            </tr>
+            <tr>
+                <td>65</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CECATI   012</td>
+                <td>AV.   ATZACOALCO NO. 7700, COL. CONSTITUCIÓN DE LA REPÚBLICA, C.P. 07469, GUSTAVO   A. MADERO, DISTRITO FEDERAL.</td>
+                <td>(55)   57-67-71-98 / 57-67-03-10 / 57-67-52-67 / 57-67-56-28</td>
+            </tr>
+            <tr>
+                <td>66</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CECATI   073</td>
+                <td>LENGUAS   INDIGENAS S/N, COL. CARLOS ZAPATA VELA, C.P. 08040, IZTACALCO, DISTRITO   FEDERAL</td>
+                <td>56-50-59-11   / 56-49-82-54</td>
+            </tr>
+            <tr>
+                <td>67</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CECATI   099</td>
+                <td>JOAQUÍN   ROMO NO.144, COL. MIGUEL HIDALGO, C.P. 14260, TLALPAN, DISTRITO FEDERAL</td>
+                <td>56-65-52-61   / 55-28-24-44, EXT. 105</td>
+            </tr>
+            <tr>
+                <td>68</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CENTRO   MULTIMODAL</td>
+                <td>AZAFRÁN   386, PRIMER PISO, COL. GRANJAS MÉXICO, C.P. 08400, IZTACALCO, DISTRITO FEDERAL</td>
+                <td>30-61-81-59   / 36-01-10-00, EXT. 64030</td>
+            </tr>
+            <tr>
+                <td>69</td>
+                <td>DISTRITO FEDERAL</td>
+                <td>CENTRO MULTIMODAL II</td>
+                <td>FERNANDO   DE ALVA IXTLILXÓCHITL NO.185. COL. TRÁNSITO. DEL. CUAUHTÉMOC. MÉXICO, D. F.   06820</td>
+                <td>01   (55) 36-01-10-00, EXT. 64104 Y 64091</td>
+            </tr>
+            <tr>
+                <td>70</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CETIS   001</td>
+                <td>EJE   10 SUR Y ESTANISLAO RAMÍREZ S/N, COL. SELENE C.P. 13420 TLÁHUAC, DISTRITO   FEDERAL</td>
+                <td>(01-555)   58-41-25-45 / 58-41-29-65</td>
+            </tr>
+            <tr>
+                <td>71</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CETIS   002</td>
+                <td>AV.   HIDALGO NO. 62, COL. DEL CARMEN, C.P. 04100, COYOACÁN, DISTRITO FEDERAL</td>
+                <td>56   59 75 88, EXT.102</td>
+            </tr>
+            <tr>
+                <td>72</td>
+                <td>DISTRITO FEDERAL</td>
+                <td>CETIS 004</td>
+                <td>AV.   DE LAS GRANJAS NO.283, COL. JARDÍN AZPEITIA, C.P. 02530 AZCAPOTZALCO, D.F.</td>
+                <td>01   (555) 53-52-15-78 / 53-53-64-57</td>
+            </tr>
+            <tr>
+                <td>73</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CETIS   006</td>
+                <td>CUITLÁHUAC   NO. 50, ESQUINA AV. TLÁHUAC S/N, COL. LOS REYES CULHUACÁN, C.P. 09840, IZTAPALAPA, DISTRITO FEDERAL</td>
+                <td>51-81-12-25   / 55-81-19-88 / 54-45-83-74, EXT. 216</td>
+            </tr>
+            <tr>
+                <td>74</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CETIS   007</td>
+                <td>AV.   LUIS ESPINOZA S/N, ENTRE AV. BENITO JUÁREZ Y SOLIDARIDAD, COL. SOLIDARIDAD   NACIONAL, C.P. 07268, GUSTAVO .A. MADERO, DISTRITO FEDERAL.</td>
+                <td>01   (555) 53-67-42-41</td>
+            </tr>
+            <tr>
+                <td>75</td>
+                <td>DISTRITO FEDERAL</td>
+                <td>CETIS 030</td>
+                <td>AV.   CIENFUEGOS NO. 1017, COL. SAN PEDRO ZACATENCO, C.P. 07360, GUSTAVO A. MADERO,   D.F.</td>
+                <td>01   (555) 55-86-22-98 / 55-86-55-29</td>
+            </tr>
+            <tr>
+                <td>76</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CETIS   033</td>
+                <td>HACIENDA   NARVARTE NO. 84, COL. PRADOS DEL ROSARIO, C.P. 02410, AZCAPOTZALCO, DISTRITO   FEDERAL.</td>
+                <td>01   (555) 53-94-44-43 / 53-83-92-98</td>
+            </tr>
+            <tr>
+                <td>77</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CETIS   049</td>
+                <td>AV   .ACUEDUCTO NO.95, COL. AMPLIACIÓN TEPEPAN XOCHIMILCO, C.P. 16030. XOCHIMILCO,   DISTRITO FEDERAL.</td>
+                <td>01   (555) 55-55-65-56/ 56-76-75-91</td>
+            </tr>
+            <tr>
+                <td>78</td>
+                <td>DISTRITO   FEDERAL</td>
+                <td>CETIS   054</td>
+                <td>CALLE   412 y AV. 608, COL. UNIDAD HABITACIONAL SAN JUAN DE ARAGÓN, C.P. 07470,   GUSTAVO A. MADERO, DISTRITO FEDERAL</td>
+                <td>57-96-99-60   / 57-96-99-01, EXT. 113</td>
+            </tr>
+            <tr>
+                <td>79</td>
+                <td>DISTRITO FEDERAL</td>
+                <td>CETIS 153</td>
+                <td>AV.   LEYES DE REFORMA S/N Y 25 DE SEPTIEMBRE DE 1873, COL. LEYES DE REFORMA, C.P.   09310, IZTAPALAPA, D.F.</td>
+                <td>01   (555) 56-00-84-74</td>
+            </tr>
+            <tr>
+                <td>80</td>
+                <td>DURANGO</td>
+                <td>CBTIS 042</td>
+                <td>GÓMEZ   FARIAS NO.508 ORIENTE C.P. 34700, GUADALUPE VICTORIA, DGO.</td>
+                <td>01   (676) 882-02-30</td>
+            </tr>
+            <tr>
+                <td>81</td>
+                <td>DURANGO</td>
+                <td>CBTIS   110</td>
+                <td>AV.   MARTIRES DE SONORA NO. 221, COL. AGRÍCOLA 20 DE NOVIEMBRE, C.P. 34235,   DURANGO, DURANGO</td>
+                <td>01   (618) 833-70-25</td>
+            </tr>
+            <tr>
+                <td>82</td>
+                <td>DURANGO</td>
+                <td>CECATI   129</td>
+                <td>SIERRA   S/N, COL. SILVESTRE REVUELTAS, C.P. 34637, SANTIAGO PAPASQUIARO, DURANGO.</td>
+                <td>01   (674) 862-06-16 / 862-15-20 / (015) 67985818</td>
+            </tr>
+            <tr>
+                <td>83</td>
+                <td>DURANGO</td>
+                <td>CETIS   088</td>
+                <td>CALLE   BENITO DÍAZ ESQUINA CON JUAN PABLO ESTRADA S/N, COL. EL DORADO, C.P. 35020,   GÓMEZ PALACIO, DURANGO</td>
+                <td>01   (871) 176-34-15 / 715-01-06</td>
+            </tr>
+            <tr>
+                <td>84</td>
+                <td>ESTADO DE MÉXICO</td>
+                <td>CBTIS 161</td>
+                <td>C.   SEBASTIAN LERDO DE TEJADA S/N, BARRIO DE JESUS SEGUNDA SECCIÓN, SAN PABLO   AUTOPAN CP 50290, TOLUCA, ESTADO DE MÉXICO</td>
+                <td>01   (722) 296-54-62</td>
+            </tr>
+            <tr>
+                <td>85</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CBTIS   203</td>
+                <td>AV.   TECNOLÓGICO NORTE NÚM. 1067, COL. SAN   SALVADOR TIZATLALLI, C.P. 52140, METEPEC, EDO. DE MÉX.</td>
+                <td>01   (722) 271-14-96</td>
+            </tr>
+            <tr>
+                <td>86</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CBTIS   227</td>
+                <td>PASEO   DEL FERROCARRIL NO. 99, COL. LOS REYES IZTACALA, C.P. 54090, TLALNEPANTLA,   ESTADO DE MÉXICO</td>
+                <td>53-83-96-93   / 53-18-37-31</td>
+            </tr>
+            <tr>
+                <td>87</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CECATI   037</td>
+                <td>IGNACIO   LÓPEZ RAYÓN NO. 213, COL. SAN MIGUEL, C.P. 51350, ZINACANTEPEC, ESTADO DE   MÉXICO.</td>
+                <td>01   (722) 218-04-57</td>
+            </tr>
+            <tr>
+                <td>88</td>
+                <td>ESTADO DE MÉXICO</td>
+                <td>CECATI 090</td>
+                <td>CALLE   VALLE GRANDE NO. 120 COL. VALLE DE ARAGON 1A.SECC, CP. 57100,   NETZAHUALCÓYOTL, ESTADO DE MÉXICO</td>
+                <td>01   (555) 780-17-33 / 712-84-11</td>
+            </tr>
+            <tr>
+                <td>89</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CECATI   107</td>
+                <td>AV.   MAÑANA S/N, ENTRE CUATLI Y XÓCHITL, COL. CIUDAD AMANECER, C.P. 55267,   ECATEPEC DE MORELOS, ESTADO DE MÉXICO.</td>
+                <td>57-98-23-97   / (015) 67-95-56-18</td>
+            </tr>
+            <tr>
+                <td>90</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CECATI   115</td>
+                <td>EX.   RANCHO LOS URIBE S/N ENTRE FRATERNIDAD Y LIBERTAD, COL. SANTA CRUZ   AZCAPOTZALTONGO, C.P. 50030, TOLUCA ESTADO DE MÉXICO.</td>
+                <td>01(722)   217-15-57</td>
+            </tr>
+            <tr>
+                <td>91</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CECATI   135</td>
+                <td>EBANISTAS   S/N, ENTRE HUEHUETOCA Y JESÚS JIMÉNEZ GALLARDO, COL. ZONA INDUSTRIAL SAN   SEBASTIÁN XHALA, C.P. 54714, CUAUTITLÁN IZCALLI, ESTADO DE MEXICO.</td>
+                <td>58-72-87-66   / 58-72-83-34</td>
+            </tr>
+            <tr>
+                <td>92</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CECATI   196</td>
+                <td>AV.   IGNACIO COMONFORT S/N, ESQ. CALLE ORIENTE 2 Y ORIENTE 3, COL. STA. CRUZ, C.P.   56617, VALLE DE CHALCO SOLIDARIDAD, ESTADO DE MÉXICO.</td>
+                <td>59-71-00-40   / 59-71-78-52</td>
+            </tr>
+            <tr>
+                <td>93</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CETIS   037</td>
+                <td>AV.   LÁZARO CÁRDENAS S/N, ENTRE GUSTAVO BAZ Y 4A. AVENIDA, COL. BENITO JUÁREZ,   C.P. 57000, NEZAHUALCÓYOTL, ESTADO DE MÉXICO</td>
+                <td>12-09-59-65   / 57-30-83-50</td>
+            </tr>
+            <tr>
+                <td>94</td>
+                <td>ESTADO DE MÉXICO</td>
+                <td>CETIS 095</td>
+                <td>ALCANFORES   S/N, COL. LÁZARO CÁRDENAS C.P. 54916 TULTITLÁN, EDO. MÉX.</td>
+                <td>01   (555) 58-94-19-56</td>
+            </tr>
+            <tr>
+                <td>95</td>
+                <td>ESTADO DE MÉXICO</td>
+                <td>CETIS 097</td>
+                <td>Km.   5.5 CARRETERA TEXCOCO-SAN MIGUEL TLAIXPAN, TEXCOCO ESTADO DE MEXICO</td>
+                <td>01   (595) 928-00-23</td>
+            </tr>
+            <tr>
+                <td>96</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CETIS   119</td>
+                <td>AV.   PICHARDO PAGAZA S/N, ESQUINA VICENTE GUERRERO, COL. FUENTES DE ARAGÓN, C.P.   55210, ECATEPEC, ESTADO DE MÉXICO</td>
+                <td>26-46-08-07   / 57-77-78-70</td>
+            </tr>
+            <tr>
+                <td>97</td>
+                <td>ESTADO   DE MÉXICO</td>
+                <td>CETIS   165</td>
+                <td>AV.   PERIODISTA NÚM. 190, COL. PRENSA NACIONAL, C.P. 54170, TLALNEPANTLA ESTADO DE   MÉXICO</td>
+                <td>53-68-73-79</td>
+            </tr>
+            <tr>
+                <td>98</td>
+                <td>GUANAJUATO</td>
+                <td>CBTIS   065</td>
+                <td>CARR.   IRAPUATO-SILAO KM. 4.5, COL. FRACC. SANTA FÉ, APARTADO POSTAL 56, C.P. 36620,   IRAPUATO,GUANAJUATO</td>
+                <td>01   (462) 624-14-42 / 625-19-14</td>
+            </tr>
+            <tr>
+                <td>99</td>
+                <td>GUANAJUATO</td>
+                <td>CBTIS   075</td>
+                <td>AV.   EDUCACIÓN TECNOLÓGICA NO.2, COL. CENTRO, C.P. 37800, DOLORES HIDALGO,   GUANAJUATO.</td>
+                <td>01   (418) 182-23-15 / 182-05-55, EXT. 18</td>
+            </tr>
+            <tr>
+                <td>100</td>
+                <td>GUANAJUATO</td>
+                <td>CBTIS   139</td>
+                <td>VENUSTIANO   CARRANZA NO. 600, COL. PURÍSIMA CONCEPCIÓN, C.P.36360,<br>
+                FRANCISCO DEL RINCÓN, GUANAJUATO.</td>
+                <td>01   (476) 743-17-86 / 744-32-29, EXT. 118</td>
+            </tr>
+            <tr>
+                <td>101</td>
+                <td>GUANAJUATO</td>
+                <td>CBTIS 172</td>
+                <td>CARRETERA   VISTA HERMOSA S/N, ZONA CENTRO, C.P. 38300, CORTAZAR, GTO.</td>
+                <td>01   (411) 155-15-72 / 155-13-51</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>GUANAJUATO</td>
+                <td>CBTIS   217</td>
+                <td>AV.   TECNOLÓGICO S/N, FRACC. COL. LOMA BONITA, CP. 38980, URIANGATO, GUANAJUATO</td>
+                <td>01   (445) 458-05-16 / 458-42-91</td>
+            </tr>
+            <tr>
+                <td>103</td>
+                <td>GUANAJUATO</td>
+                <td>CBTIS   225</td>
+                <td>PROLONGACIÓN   AVELLANO S/N, FRACCIONAMIENTO SAN JERÓNIMO, C.P. 37140, LEÓN, GUANAJUATO</td>
+                <td>01   (477) 774-46-07 / 774-35-25, EXT. 112</td>
+            </tr>
+            <tr>
+                <td>104</td>
+                <td>GUANAJUATO</td>
+                <td>CBTIS 238</td>
+                <td>KM.   1 CARR. JUVENTINO ROSAS-VILLAGRÁN, S/N, COL. LÁZARO CÁRDENAS, C.P. 38240,   SANTA CRUZ JUVENTINO ROSAS, GTO.</td>
+                <td>01   (412) 157-22-63 / 157-22-97</td>
+            </tr>
+            <tr>
+                <td>105</td>
+                <td>GUANAJUATO</td>
+                <td>CECATI   089</td>
+                <td>AV.   MÉXICO JAPÓN NÚMERO 106, COL. CIUDAD INDUSTRIAL, C.P. 38010, CELAYA,   GUANAJUATO</td>
+                <td>01(461)   611-79-11 / 611-50-44</td>
+            </tr>
+            <tr>
+                <td>106</td>
+                <td>GUANAJUATO</td>
+                <td>CECATI 104</td>
+                <td>PRIVADA   DE CECATI NO. 108 AMPLIACIÓN SAN MIGUEL CP. 37600, SAN FELIPE, GUANAJUATO</td>
+                <td>01   (428) 685-11-17</td>
+            </tr>
+            <tr>
+                <td>107</td>
+                <td>GUANAJUATO</td>
+                <td>CECATI   113</td>
+                <td>AV.   VALLE DE SANTIAGO NÚM. 1703-A, COL. BENITO JUÁREZ, C.P. 36790, SALAMANCA,   GUANAJUATO</td>
+                <td>01   (464) 648-95-79 / 648-95-79</td>
+            </tr>
+            <tr>
+                <td>108</td>
+                <td>GUANAJUATO</td>
+                <td>CETAC 003</td>
+                <td>CAMINO   A VALENCIANITA N° 637 EL COPAL, C.P. 36821 IRAPUATO, GTO. (Comunidad El Copal   a un lado del ITESI Y Carr. Fed. 45 tramo Irapuato-Silao Irapuato,   Guanajuato)</td>
+                <td>04   (331) 341-88-76</td>
+            </tr>
+            <tr>
+                <td>109</td>
+                <td>GUERRERO</td>
+                <td>CBTIS 178</td>
+                <td>CARR.   TLAPA-PUEBLA KM 1.8, COL. PIRAMIDES DE CONTLALCO C.P. 41300,   TLAPA DE COMONFORT, GRO.</td>
+                <td>01   (757) 476-05-24</td>
+            </tr>
+            <tr>
+                <td>110</td>
+                <td>GUERRERO</td>
+                <td>CBTIS 216</td>
+                <td>CARRETERA   NACIONAL, ATOYAC DE LA Y GRIEGA KM 1.5, COL. LOMAS DEL SUR, C.P. 40930,   CD.ATOYAC DE ALVAREZ, GRO.</td>
+                <td>01   (742) 423-30-73</td>
+            </tr>
+            <tr>
+                <td>111</td>
+                <td>GUERRERO</td>
+                <td>CEB   5/3</td>
+                <td>SANTOS   DEGOLLADO S/N, COL. FRACC. JARDINES DEL SUR, C.P. 40060, IGUALA, GUERRERO</td>
+                <td>01   (733) 333-37-53</td>
+            </tr>
+            <tr>
+                <td>112</td>
+                <td>GUERRERO</td>
+                <td>CECATI 165</td>
+                <td>BALTAZAR   R. LEYVA MANCILLA S/N, COL. CENTRO, CP. 40600, TLAPEHUALA, GUERRERO</td>
+                <td>01   (732) 673-01-45</td>
+            </tr>
+            <tr>
+                <td>113</td>
+                <td>GUERRERO</td>
+                <td>CETIS   045</td>
+                <td>MEXICAS   S/N, COL.EL EMBALSE, C.P. 40880, ZIHUATANEJO, GUERRERO.</td>
+                <td>01   (755) 554-28-13 / 554-70-90</td>
+            </tr>
+            <tr>
+                <td>114</td>
+                <td>GUERRERO</td>
+                <td>CETIS   090</td>
+                <td>RETORNO   EDUCACIÓN ESQUINA ALTA QUEBRADORA S/N, COL. CD. RENACIMIENTO, C.P. 39715,   ACAPULCO DE JUÁREZ, GUERRERO</td>
+                <td>01   (744) 441-89-15</td>
+            </tr>
+            <tr>
+                <td>115</td>
+                <td>GUERRERO</td>
+                <td>CETIS   117</td>
+                <td>PROLONGACIÓN   CUAUHTÉMOC S/N, COL. CETIS, CP.40972, COYUCA DE BENÍTEZ, GUERRERO</td>
+                <td>01   (781) 452-10-20 / 452-16-53</td>
+            </tr>
+            <tr>
+                <td>116</td>
+                <td>GUERRERO</td>
+                <td>CETIS   135</td>
+                <td>CEDROS   NÚM. 13, COL. JARDINES DEL SUR, C.P. 39074, CHILPANCINGO, GUERRERO</td>
+                <td>01   (747) 472-86-13</td>
+            </tr>
+            <tr>
+                <td>117</td>
+                <td>GUERRERO</td>
+                <td>CETMar 27</td>
+                <td>CARRETERA   NACIONAL ACAPULCO-ZIHUATANEJO KM. 156, C.P. 40907, PUERTO VICENTE GUERRERO,   TECPAN DE GALEANA, GUERRERO</td>
+                <td>01   (742) 422-00-33</td>
+            </tr>
+            <tr>
+                <td>118</td>
+                <td>HIDALGO</td>
+                <td>CBTIS   008</td>
+                <td>KM   5 LIBRAMIENTO BLVD. LUIS DONALDO COLOSIO S/N, COL. ZONA INDUSTRIAL LA PAZ,   C.P. 42093, MINERAL DE LA REFORMA, HIDALGO</td>
+                <td>01   (771) 713-54-12, EXT. 103</td>
+            </tr>
+            <tr>
+                <td>119</td>
+                <td>HIDALGO</td>
+                <td>CBTIS   083</td>
+                <td>HONORABLE   COLEGIO MILITAR ESQ. LIC. VERDAD S/N, COL. ROJO GÓMEZ, C.P. 42503, ACTOPAN, HIDALGO.</td>
+                <td>01   (772) 727-05-80 / 727-31-93</td>
+            </tr>
+            <tr>
+                <td>120</td>
+                <td>HIDALGO</td>
+                <td>CBTIS   179</td>
+                <td>LIC.   ADOLFO LUGO VERDUZCO NÚM. 105, COL. LA CAÑADA, C.P.43615, TULANCINGO DE BRAVO   HIDALGO,</td>
+                <td>01   (775) 753-55-20</td>
+            </tr>
+            <tr>
+                <td>121</td>
+                <td>HIDALGO</td>
+                <td>CEB   5/4</td>
+                <td>AV.   JAVIER ROJO GÓMEZ S/N, COL. JUAN C.DORIA, C.P. 42083, PACHUCA, HIDALGO</td>
+                <td>01   (771) 711-05-92 / 133-37-20</td>
+            </tr>
+            <tr>
+                <td>122</td>
+                <td>HIDALGO</td>
+                <td>CECATI   047</td>
+                <td>GUADALUPE   VICTORIA No. 7, COL. BARRIO DE ATEMPA, C.P. 43800, TIZAYUCA, HIDALGO</td>
+                <td>01   (779) 796-26-90 / 5528863058</td>
+            </tr>
+            <tr>
+                <td>123</td>
+                <td>HIDALGO</td>
+                <td>CECATI   055</td>
+                <td>CRUCERO   TEPEJI TULA S/N, COL. BARRIO   TLAXINACALPAN, C.P. 42855, TEPEJI DEL RÍO, HIDALGO</td>
+                <td>01   (773) 733-10-19</td>
+            </tr>
+            <tr>
+                <td>124</td>
+                <td>HIDALGO</td>
+                <td>CECATI 114</td>
+                <td>BLVD.   FELIPE ANGELES 309, COL. VENTA PRIETA, CP. 42080, PAHUCA, HIDALGO</td>
+                <td>01   (771) 181-71-78</td>
+            </tr>
+            <tr>
+                <td>125</td>
+                <td>HIDALGO</td>
+                <td>CETAC 002</td>
+                <td>KM.   2.5 CARRETERA TEZONTEPEC-TENANGO APARTADO POSTAL NO. 42 C.P. 42760,   TEZONTEPEC DE ALDAMA, HIDALGO</td>
+                <td>01   (763) 737-56-57 / 737-70-05</td>
+            </tr>
+            <tr>
+                <td>126</td>
+                <td>HIDALGO</td>
+                <td>CETIS 026</td>
+                <td>AV.   IGNACIO ZARAGOZA S/N C.P. 42970, ATITALAQUIA, HGO.</td>
+                <td>01 (778) 737-34-48</td>
+            </tr>
+            <tr>
+                <td>127</td>
+                <td>HIDALGO</td>
+                <td>CETIS   091</td>
+                <td>DEPORTIVA   NO. 3, COL. HUERTO NANTZHA, C.P. 42800, TULA DE ALLENDE, HIDALGO,</td>
+                <td>01   (773) 732-68-35</td>
+            </tr>
+            <tr>
+                <td>128</td>
+                <td>JALISCO</td>
+                <td>CBTIS   010</td>
+                <td>SIERRA   DE TECUÁN NO. 2165, COL.RESIDENCIAL SAN ELÍAS, C.P. 44240, GUADALAJARA,   JALISCO.</td>
+                <td>01   (333) 651 -40-03 / 651-42-59, EXT. 105</td>
+            </tr>
+            <tr>
+                <td>129</td>
+                <td>JALISCO</td>
+                <td>CBTIS   038</td>
+                <td>JAVIER   VARGAS NO. 5330, COL. PASEOS DEL SOL, C.P. 045079, ZAPOPAN, JALISCO</td>
+                <td>01   (333) 631-78-37, EXT. 12</td>
+            </tr>
+            <tr>
+                <td>130</td>
+                <td>JALISCO</td>
+                <td>CBTIS   049</td>
+                <td>AV   DEL CECYT 100, COL. NUEVO FUERTE, C.P. 47899, OCOTLÁN, JALISCO</td>
+                <td>01   (392) 922-02-49 / 922-30-34</td>
+            </tr>
+            <tr>
+                <td>131</td>
+                <td>JALISCO</td>
+                <td>CBTIS   068</td>
+                <td>AV.   POLITÉCNICO NACIONAL. NO.215, COL. EDUCACIÓN, C.P. 48338, PTO. VALLARTA,   JALISCO.</td>
+                <td>01   (322) 224-37-22, EXT. 103</td>
+            </tr>
+            <tr>
+                <td>132</td>
+                <td>JALISCO</td>
+                <td>CBTIS   226</td>
+                <td>VICENTE   MENDIOLA NO.26, COL. CIUDAD GUZMÁN CENTRO, C.P. 49000, CD. GUZMÁN, JALISCO.</td>
+                <td>01   (341) 412-68-50 / 412-68-57</td>
+            </tr>
+            <tr>
+                <td>133</td>
+                <td>JALISCO</td>
+                <td>CBTIS 246</td>
+                <td>BOULEVARD   EL RODEO NO. 401, COL. EL VIGÍA, C.P. 45140, ZAPOPAN, JAL.</td>
+                <td>01   (333) 656-72-01 / 636-85-92</td>
+            </tr>
+            <tr>
+                <td>134</td>
+                <td>JALISCO</td>
+                <td>CBTIS 247</td>
+                <td>MANUEL   J. AGUIRRE NO. 304, COL. BELLA VISTA, C.P. 47200, TEOCALTICHE, JALISCO</td>
+                <td>01   (346) 787-25-09 / 787-51-93</td>
+            </tr>
+            <tr>
+                <td>135</td>
+                <td>JALISCO</td>
+                <td>CBTIS 262</td>
+                <td>DALIA   NO.45, FRACC. BUGAMBILIAS, C.P. 47470, LAGOS DE MORENO, JAL.</td>
+                <td>01   (474) 741-12-71 / 116-07-08</td>
+            </tr>
+            <tr>
+                <td>136</td>
+                <td>JALISCO</td>
+                <td>CEB   5/5</td>
+                <td>AV.   JUAN JOSÉ ARREOLA ZUÑIGA No. 770, COL. MORELOS C.P. 49026 CD. GUZMAN, JALISCO</td>
+                <td>01   (341) 412-60-10 / 413-88-85</td>
+            </tr>
+            <tr>
+                <td>137</td>
+                <td>JALISCO</td>
+                <td>CECATI   051</td>
+                <td>CUAUHTÉMOC   65, COL. LAS JUNTAS, C.P. 45590, TLAQUEPAQUE, JALISCO</td>
+                <td>01   (333) 670-54-551 / 670-49-05 / 670-52-56</td>
+            </tr>
+            <tr>
+                <td>138</td>
+                <td>JALISCO</td>
+                <td>CECATI   056</td>
+                <td>AV.   ATEMAJAC NO. 1270, COL. ZOQUIPAN, C.P. 45170, ZAPOPAN, JALISCO</td>
+                <td>01   (333) 660-24-06 / 861-50-95, EXT. 106 y 108</td>
+            </tr>
+            <tr>
+                <td>139</td>
+                <td>JALISCO</td>
+                <td>CECATI   097</td>
+                <td>CIRCUITO   MALECÓN PONIENTE NO. 117,<br>
+                COL. INFONAVIT LA SOLEDAD, C.P.   45403,<br>
+                TONALÁ, JALISCO</td>
+                <td>01   (333) 680-16-10 / 680-80-11</td>
+            </tr>
+            <tr>
+                <td>140</td>
+                <td>JALISCO</td>
+                <td>CECATI 180</td>
+                <td>CALLE   JUAREZ #96, LAS HUERTAS, CP. 46600, AMECA, JALISCO</td>
+                <td>01   (375) 758-01-58</td>
+            </tr>
+            <tr>
+                <td>141</td>
+                <td>JALISCO</td>
+                <td>CECATI 190</td>
+                <td>CALLE   PUERTO MELAQUE S/N, LOS ARRAYANES, 44750 GUADALAJARA, JALISCO.</td>
+                <td>12   (055) 36-08-02-64</td>
+            </tr>
+            <tr>
+                <td>142</td>
+                <td>JALISCO</td>
+                <td>CETAC   001</td>
+                <td>JOSÉ   SANTANA Y RIVERA DEL LAGO No. 800 , APARTADO POSTAL No. 40, C.P. 45800,   JOCOTEPEC, JALISCO.</td>
+                <td>01   (387) 763-11-35 / 763-29-12</td>
+            </tr>
+            <tr>
+                <td>143</td>
+                <td>MICHOACÁN</td>
+                <td>CBTIS   052</td>
+                <td>RUBÉN   C. NAVARRO S/N, COL. LA FLORESTA, C.P. 59610, ZAMORA, MICHOACÁN,</td>
+                <td>01   (351) 520-59-70 / 517-00-86, EXT. 119</td>
+            </tr>
+            <tr>
+                <td>144</td>
+                <td>MICHOACÁN</td>
+                <td>CBTIS   084</td>
+                <td>IDEAS   LIBERALES NO. 4, COL. FRACCIONAMIENTO CIUDAD DEL SOL, C.P. 59310, LA PIEDAD,   MICHOACAN.</td>
+                <td>01   (352) 526-37-08 / 526-50-06</td>
+            </tr>
+            <tr>
+                <td>145</td>
+                <td>MICHOACÁN</td>
+                <td>CBTIS 094</td>
+                <td>CALLE   ROBERTO PITA CORNEJO NO. 17 COL. EMILIANO ZAPATA C.P. 61607, PÁTZCUARO, MICH.</td>
+                <td>01   (434) 342-14-65 / 342-15-51</td>
+            </tr>
+            <tr>
+                <td>146</td>
+                <td>MICHOACÁN</td>
+                <td>CBTIS   149</td>
+                <td>PERIFÉRICO   PASEO DE LA REPÚBLICA NO. 1149, SECTOR INDEPENDENCIA, COL. EX EJIDO EMILIANO   ZAPATA, C.P. 58180, MORELIA, MICHOACÁN</td>
+                <td>01   (443) 316-34-38 / 316-85-21</td>
+            </tr>
+            <tr>
+                <td>147</td>
+                <td>MICHOACÁN</td>
+                <td>CBTIS   162</td>
+                <td>CRESCENCIO   MORALES PTE. NO. 144, COL. LAS PALMAS, C.P. 61517, ZITÁCUARO, MICHOACAN.</td>
+                <td>01   (715) 156-78-36 / 153-80-80</td>
+            </tr>
+            <tr>
+                <td>148</td>
+                <td>MICHOACÁN</td>
+                <td>CECATI   038</td>
+                <td>KM.   1.5 CARRETERA A VILLA JIMÉNEZ, COL. BENITO JUÁREZ, C.P. 58639,<br>
+                ZACAPU, MICHOACÁN</td>
+                <td>01   (436) 363-02-92</td>
+            </tr>
+            <tr>
+                <td>149</td>
+                <td>MICHOACÁN</td>
+                <td>CECATI   064</td>
+                <td>PORTAL   JUÁREZ NO. 32, COL. CENTRO, C.P.59510, JIQUILPAN, MICHOACÁN.</td>
+                <td>01   (353) 533-03-53 / 533-40-99</td>
+            </tr>
+            <tr>
+                <td>150</td>
+                <td>MICHOACÁN</td>
+                <td>CETIS   027</td>
+                <td>KM   66.8 CARR. CARAPAN-URUAPAN S/N, COL. LA BASÍLICA, C.P. 60000, URUAPAN,   MICHOACÁN,</td>
+                <td>01   (452) 523-15-09, EXT. 102</td>
+            </tr>
+            <tr>
+                <td>151</td>
+                <td>MICHOACÁN</td>
+                <td>CETIS 121</td>
+                <td>KM.   1 CARRETERA SALIDA A SAHUAYO-GUADALAJARA, C.P. 59000, SAHUAYO, MICH.</td>
+                <td>01   (353) 532-22-24</td>
+            </tr>
+            <tr>
+                <td>152</td>
+                <td>MICHOACÁN</td>
+                <td>CETMar   16</td>
+                <td>BOULEVAR   DE LAS ISLAS S/N, COL. INTERIOR ISLA   DEL CAYACAL, APARTADO POSTAL No. 732, C.P. 60950, LÁZARO CÁRDENAS, MICHOACÁN</td>
+                <td>01   (753) 537-77-23 / 537-14-92</td>
+            </tr>
+            <tr>
+                <td>153</td>
+                <td>MORELOS</td>
+                <td>CECATI   147</td>
+                <td>PRIV.   LÁZARO CARDENAS NO. 6, COL. CONJUNTO   EDUCATIVO EUSEBIO JAUREGUÍ, C.P. 62749, CUAUTLA, MORELOS</td>
+                <td>01   (735) 353-79-53 / 398-05-18</td>
+            </tr>
+            <tr>
+                <td>154</td>
+                <td>MORELOS</td>
+                <td>CETIS   012</td>
+                <td>AV.   DE LOS 50 MTS, S/N, COL. CIVAC, C.P. 62578, JIUTEPEC, MORELOS</td>
+                <td>01   (777) 320-79-09 / 320-79-80, EXT. 211</td>
+            </tr>
+            <tr>
+                <td>155</td>
+                <td>NAYARIT</td>
+                <td>CECATI 048</td>
+                <td>AV.   DEL PARQUE Y SEVILLA S/N FRACC. CD. DEL VALLE, CP. 63157, TEPÍC, NAYARIT</td>
+                <td>01   (311) 213-13-48 / 210-09-06</td>
+            </tr>
+            <tr>
+                <td>156</td>
+                <td>NAYARIT</td>
+                <td>CECATI   140</td>
+                <td>PONCIANO   ARRIAGA SUR NO. 75, COL. CLUB LOS LEONES, C.P. 63940, IXTLÁN DEL RÍO, NAYARIT</td>
+                <td>01   (324) 243-20-44</td>
+            </tr>
+            <tr>
+                <td>157</td>
+                <td>NAYARIT</td>
+                <td>CETIS   100</td>
+                <td>PUERTO   RICO NO. 36, COL. MIRAVALLES, C.P. 63184, TEPIC, NAYARIT</td>
+                <td>01   (311) 213-15-27</td>
+            </tr>
+            <tr>
+                <td>158</td>
+                <td>NAYARIT</td>
+                <td>CETMar   06</td>
+                <td>CORAL   NO. 2, C.P. 63734, BAHÍA DE BANDERAS, NAYARIT</td>
+                <td>01   (329) 295-56-10 / 295-53-28</td>
+            </tr>
+            <tr>
+                <td>159</td>
+                <td>NAYARIT</td>
+                <td>CETMar   26</td>
+                <td>AV.   TENIENTE AZUETA S/N, APARTADO POSTAL 15, C.P. 63740, SAN BLAS, NAYARIT.</td>
+                <td>01   (323) 285-04-10</td>
+            </tr>
+            <tr>
+                <td>160</td>
+                <td>NUEVO   LEÓN</td>
+                <td>CBTIS   022</td>
+                <td>LAREDO   NO. 300, COL. MITRAS NORTE, C.P. 64320, MONTERREY, NUEVO LEÓN</td>
+                <td>01   (818) 370-58-84 / 370-77-44, EXT. 108</td>
+            </tr>
+            <tr>
+                <td>161</td>
+                <td>NUEVO   LEÓN</td>
+                <td>CBTIS   074</td>
+                <td>TENOCHTITLÁN   Y TEOTIHUACÁN S/N, COL. INFONAVIT LA JOYA 2DO. SECTOR, C.P. 67160, GUADALUPE,   NUEVO LEÓN</td>
+                <td>01   (818) 323-24-50 / 323-31-40</td>
+            </tr>
+            <tr>
+                <td>162</td>
+                <td>NUEVO   LEÓN</td>
+                <td>CBTIS   099</td>
+                <td>AVENIDA   VALLE DEL MIRADOR NO.500 COL. VALLE DEL MIRADOR, C.P. 64750, MONTERREY, N.L.</td>
+                <td>01   (818) 387-07-69</td>
+            </tr>
+            <tr>
+                <td>163</td>
+                <td>NUEVO   LEÓN</td>
+                <td>CBTIS   258</td>
+                <td>AV.   PLINIO D.ORDOÑEZ NO. 801, COL. HACIENDA DEL TOPO, GENERAL ESCOBEDO, N.L.   C.P.66050</td>
+                <td>01   (818) 397-16-66</td>
+            </tr>
+            <tr>
+                <td>164</td>
+                <td>NUEVO   LEÓN</td>
+                <td>CECATI   125</td>
+                <td>AV.URANIO   ENTRE POLONIO Y RUTENIO S/N, VALLE DE INFONAVIT. CUMBRES 5TO SECTOR.   C.P.64350, MONTERREY, NUEVO LEÓN.&nbsp;</td>
+                <td>01   (818) 400-27-73 / 81 83107570 / 81 83105681</td>
+            </tr>
+            <tr>
+                <td>165</td>
+                <td>NUEVO   LEÓN</td>
+                <td>CETIS   066</td>
+                <td>PADRE   MIER NO.500 FRACC. LOS SAUCES, SAN PEDRO GARZA GARCÍA, N.L., C.P. 66237 Ó   66050</td>
+                <td>01   (818) 338-53-92</td>
+            </tr>
+            <tr>
+                <td>166</td>
+                <td>NUEVO   LEÓN</td>
+                <td>CETIS   101</td>
+                <td>ARTURO   B. DE LA GARZA Y AV. ELOY CAVAZOS, COL. DÍAZ ORDAZ, C.P. 67180, GUADALUPE   NUEVO LEÓN</td>
+                <td>01   (818) 360-17-50 / 360-17-60, EXT. 122</td>
+            </tr>
+            <tr>
+                <td>167</td>
+                <td>NUEVO   LEÓN</td>
+                <td>CETIS   163</td>
+                <td>GUSTAVO   DÍAZ ORDAZ S/N, COLONIA INFONAVIT SEGUNDO SECTOR, C.P. 67543, MONTEMORELOS,   NUEVO LEÓN</td>
+                <td>01   (826) 263-61-07 / 263-61-08 EXT. 102</td>
+            </tr>
+            <tr>
+                <td>168</td>
+                <td>OAXACA</td>
+                <td>CBTIS   091</td>
+                <td>LIBERTAD   Y SAN PEDRO S/N COL. MODERNA,C.P. 70110, CD. IXTEPEC, OAXACA</td>
+                <td>01   (971) 713-06-48</td>
+            </tr>
+            <tr>
+                <td>169</td>
+                <td>OAXACA</td>
+                <td>CBTIS   107</td>
+                <td>BLVD.   BENITO JUÁREZ S/N, ENTRE LA CALLE 3 DE MAYO Y BLVD. PLAN DE TUXTEPEC, COL.   TUXTEPEC CENTRO, C.P. 68300, TUXTEPEC, OAXACA</td>
+                <td>01   (287) 875-40-52</td>
+            </tr>
+            <tr>
+                <td>170</td>
+                <td>OAXACA</td>
+                <td>CBTIS   123</td>
+                <td>AV.   LÁZARO CÁRDENAS 2018, COL. STA. LUCÍA DEL CAMINO, C.P. 71228, STA. LUCIA DEL   CAMINO, OAXACA</td>
+                <td>01   (951) 517-54-20 / 517-55-99</td>
+            </tr>
+            <tr>
+                <td>171</td>
+                <td>OAXACA</td>
+                <td>CECATI   067</td>
+                <td>OLEODUCTO   18 DE MARZO Y LÁZARO CÁRDENAS S/N, COL. MIGUEL HIDALGO ORIENTE, C.P. 70610,   SALINA CRUZ, OAXACA</td>
+                <td>01   (971) 714-54-20</td>
+            </tr>
+            <tr>
+                <td>172</td>
+                <td>OAXACA</td>
+                <td>CECATI   068</td>
+                <td>AV.   CONALEP NO. 142, TERCERA SECCIÓN DE SAN ANTONIO DE LA CAL, C.P. 71236,   OAXACA, OAXACA</td>
+                <td>01   (951) 511-52-44 / 568-50-55</td>
+            </tr>
+            <tr>
+                <td>173</td>
+                <td>PUEBLA</td>
+                <td>CBTIS   016</td>
+                <td>CALLE   FRAY BARTOLOMÉ DE LAS CASAS 2001 Y FRAY SERVANDO TERESA DE MIER, COL. RICARDO   FLORES MAGON, ATLIXCO, PUEBLA CP 74240.</td>
+                <td>01   (244) 445-25-43</td>
+            </tr>
+            <tr>
+                <td>174</td>
+                <td>PUEBLA</td>
+                <td>CBTIS   044</td>
+                <td>LIC.   VICENTE LOMBARDO TOLEDO NO.1, COL. BARRIO DE AHUATENO, C.P. 73816, TEZIUTLÁN,   PUEBLA</td>
+                <td>01   (231) 312-10-42 / 312-11-51</td>
+            </tr>
+            <tr>
+                <td>175</td>
+                <td>PUEBLA</td>
+                <td>CBTIS   086</td>
+                <td>AV.   DE LOS TÉCNICOS S/N, COL. ELECTRICISTAS, C.P. 73177, HUAUCHINANGO,PUEBLA.</td>
+                <td>01   (776) 762-15-99</td>
+            </tr>
+            <tr>
+                <td>176</td>
+                <td>PUEBLA</td>
+                <td>CBTIS   184</td>
+                <td>KM.   1 CARR. MATAMOROS-ATENCINGO, FRACC. RANCHO JUANITO, C.P. 74400, IZÚCAR DE   MATAMOROS, PUE.</td>
+                <td>01   (243) 436-24-20</td>
+            </tr>
+            <tr>
+                <td>177</td>
+                <td>PUEBLA</td>
+                <td>CBTIS   229</td>
+                <td>MIGUEL   HIDALGO NO. 341, COL. LAS PALMAS, C.P. 75710, TEHUACÁN, PUEBLA</td>
+                <td>01   (238) 383-93-00 / 383-35-12</td>
+            </tr>
+            <tr>
+                <td>178</td>
+                <td>PUEBLA</td>
+                <td>CBTIS   260</td>
+                <td>AV.   117 "A" PONIENTE NO. 703, COL. GUADALUPE HIDALGO, C.P. 72480,   PUEBLA, PUEBLA</td>
+                <td>01   (222) 219-86-15</td>
+            </tr>
+            <tr>
+                <td>179</td>
+                <td>PUEBLA</td>
+                <td>CEB   6/13</td>
+                <td>CALLEJÓN   DE LA 7 SUR NÚMERO 500, COL. CENTRO, CP. 75520, CD SERDAN, PUEBLA</td>
+                <td>01   (245) 452-11-90 / 452-20-44</td>
+            </tr>
+            <tr>
+                <td>180</td>
+                <td>PUEBLA</td>
+                <td>CECATI   008</td>
+                <td>18   PONIENTE Y 21 NORTE S/N, COL. JESUS GARCÍA, CP. 72090, PUEBLA, PUEBLA</td>
+                <td>01   (222) 242-31-72</td>
+            </tr>
+            <tr>
+                <td>181</td>
+                <td>PUEBLA</td>
+                <td>CECATI   139</td>
+                <td>AV.   SANTA ELENA ESQ. AYALA, COL. SANTA ELENA, C.P.74160, HUEJOTZINGO, PUEBLA</td>
+                <td>01   (227) 276-23-30 / 01 (227) 276-16-17</td>
+            </tr>
+            <tr>
+                <td>182</td>
+                <td>PUEBLA</td>
+                <td>CETIS   017</td>
+                <td>MANUEL   P. MONTES NO. 31, COL. OJO DE AGUA, C.P. 74042, SAN MARTÍN TEXMELUCÁN, PUEBLA</td>
+                <td>01   (248) 484-23-89 / 484-22-90</td>
+            </tr>
+            <tr>
+                <td>183</td>
+                <td>QUERÉTARO</td>
+                <td>CECATI   022</td>
+                <td>AV.   UNIVERSIDAD NO. 130, COL. SAN CAYETANO   3ra. SECCION, C.P. 76807, SAN JUAN DEL RÍO, QUERÉTARO</td>
+                <td>01   (427) 272-02-90 / 274-10-90</td>
+            </tr>
+            <tr>
+                <td>184</td>
+                <td>QUERÉTARO</td>
+                <td>CECATI   122</td>
+                <td>CALLE   VENUSTIANO CARRANZA NO. 22, COLONIA ADOLFO LÓPEZ MATEOS, CP. 76750,   TEQUISQUIAPAN, QUERETARO</td>
+                <td>01   (414) 273-16-01 / 273-52-27</td>
+            </tr>
+            <tr>
+                <td>185</td>
+                <td>QUERÉTARO</td>
+                <td>CETIS   105</td>
+                <td>AV.   REVOLUCIÓN S/N, CARRETERA A TLACOTE KM 3.5, COL. SANTA MARÍA MAGDALENA, DEL. FELIPE CARRILLO PUERTO, C.P.   76200, QUERÉTARO, QUERÉTARO</td>
+                <td>01   (442) 216-76-33 / 242-18-45, EXT. 12</td>
+            </tr>
+            <tr>
+                <td>186</td>
+                <td>QUINTANA   ROO</td>
+                <td>CBTIS   028</td>
+                <td>P.A.   ANTONIO GONZÁLEZ Y LIC. PEDRO J. CODWELL 600 COL. 10 DE ABRIL, C.P. 77622,   COZUMEL, Q. ROO</td>
+                <td>01   (987) 872-00-39</td>
+            </tr>
+            <tr>
+                <td>187</td>
+                <td>QUINTANA   ROO</td>
+                <td>CBTIS   111</td>
+                <td>AV.   CHICHEN ITZÁ, SUPERMANZANA 1, LOTE 2, ZONA ESCOLAR, COL. CENTRO, C.P. 77500,   CANCÚN, QUINTANA ROO</td>
+                <td>01   (998) 892-01-04 / 884-61-98</td>
+            </tr>
+            <tr>
+                <td>188</td>
+                <td>QUINTANA   ROO</td>
+                <td>CBTIS   214</td>
+                <td>HERIBERTO   FRÍAS NO. 652, COL. DEL BOSQUE, C.P. 77019, CHETUMAL, QUINTANA ROO</td>
+                <td>01   (983) 832-21-77</td>
+            </tr>
+            <tr>
+                <td>189</td>
+                <td>QUINTANA   ROO</td>
+                <td>CEB   5/10</td>
+                <td>AV.   CONSTITUYENTES S/N, COL. EMILIANO ZAPATA, C.P. 77229, FELIPE CARRILLO PUERTO,   QUINTANA ROO</td>
+                <td>01   (983) 411-73 / 834-01-24</td>
+            </tr>
+            <tr>
+                <td>190</td>
+                <td>QUINTANA   ROO</td>
+                <td>CETMar   10</td>
+                <td>PROLONGACIONES   BLV. BAHÍA S/N COL. ZAZIL-HA C.P. 77079 CHETUMAL Q. ROO.</td>
+                <td>01   (983) 101-16-48 / 285-31-02</td>
+            </tr>
+            <tr>
+                <td>191</td>
+                <td>SAN   LUIS POTOSÍ</td>
+                <td>CBTIS   131</td>
+                <td>ITALIA   NO. 98, FRACCIONAMIENTO PROVIDENCIA, C.P. 78390, SAN LUIS POTOSÍ, SAN LUIS   POTOSÍ</td>
+                <td>01   (444) 822-10-27, EXT. 201</td>
+            </tr>
+            <tr>
+                <td>192</td>
+                <td>SAN   LUIS POTOSÍ</td>
+                <td>CBTIS   187</td>
+                <td>KM.3   CARRETERA A SAN MARTÍN, FRACC. BUENOS AIRES, C.P. 79960, TAMAZUNCHALE, SAN   LUIS POTOSÍ.</td>
+                <td>01   (483) 362-01-42 / 361-81-44</td>
+            </tr>
+            <tr>
+                <td>193</td>
+                <td>SAN   LUIS POTOSÍ</td>
+                <td>CECATI   027</td>
+                <td>AV.   HIMNO NACIONAL NO. 4005, FRENTE. UNIDAD HABITACIONAL LÓPEZ MATEOS, COL. HIMNO   NACIONAL, C.P. 78280, SAN LUIS POTOSÍ, SAN LUIS POTOSÍ</td>
+                <td>01   (444) 815-38-22 / 128-64-99</td>
+            </tr>
+            <tr>
+                <td>194</td>
+                <td>SAN   LUIS POTOSÍ</td>
+                <td>CECATI   098</td>
+                <td>CALLE   TIXTLA NO. 311, ESQ. JOSÉ MARÍA FRANSCISCO VILLA, C.P. 79010, CD. VALLES, SAN   LUIS POTOSÍ</td>
+                <td>01   (481) 381-20-36 (CERRADO   TEMPORALMENTE POR EL SINDICATO)</td>
+            </tr>
+            <tr>
+                <td>195</td>
+                <td>SAN   LUIS POTOSÍ</td>
+                <td>CECATI   131</td>
+                <td>CARRETERA   A LA PAZ KM. 2, COL. COLINAS DE LA PAZ, C.P. 78722, MATEHUALA, SAN LUIS   POTOSÍ</td>
+                <td>01   (488) 882-34-75 / 882-62-58</td>
+            </tr>
+            <tr>
+                <td>196</td>
+                <td>SAN   LUIS POTOSÍ</td>
+                <td>CETIS   106</td>
+                <td>EMILIANO   ZAPATA NO. 600, COL. JARDINES DEL ALTO, C.P.79650, CD. FERNÁNDEZ, SAN LUIS   POTOSÍ</td>
+                <td>01   (487) 872-36-86 / 872-82-13</td>
+            </tr>
+            <tr>
+                <td>197</td>
+                <td>SINALOA</td>
+                <td>CBTIS   043</td>
+                <td>JUAN   DE DIOS BATÍZ Y ALDAMA S/N, COL. EL PARQUE, C.P. 81259, LOS MOCHIS, SIN.</td>
+                <td>01   (668) 812-03-78</td>
+            </tr>
+            <tr>
+                <td>198</td>
+                <td>SINALOA</td>
+                <td>CBTIS   224</td>
+                <td>ALBERT   EINSTEIN E ISAAC NEWTÓN S/N, COL. ROSALES C.P. 80230, CULIACÁN, SINALOA.</td>
+                <td>01   (667) 716-83-98 / 712-57-67</td>
+            </tr>
+            <tr>
+                <td>199</td>
+                <td>SINALOA</td>
+                <td>CECATI   032</td>
+                <td>AV.   GRAL. FERNANDO CUEN S/N, ESQ.AV. GRAL.PABLO MACIAS VALENZUELA, COL. ADOLFO   RUIZ CORTINEZ, C.P. 80190 CULIACÁN, SINALOA.</td>
+                <td>01    (667) 717-20-15, (667) 717-20-15 / 717-31-96</td>
+            </tr>
+            <tr>
+                <td>200</td>
+                <td>SINALOA</td>
+                <td>CECATI   043</td>
+                <td>AV.   CHOIX Y EJERCITO NACIONAL MEXICANO, COL. POPULAR AYUNTAMIENTO #75, CP. 81239,   LOS MOCHIS, SIN.</td>
+                <td>01    (668) 813-12-24, (668) 813-12-24 / 813-23-24</td>
+            </tr>
+            <tr>
+                <td>201</td>
+                <td>SINALOA</td>
+                <td>CECATI   132</td>
+                <td>PLAYA   COROMUEL NO. 240, FRACCIONAMIENTO PLAYA SUR, C.P. 82040, MAZATLÁN, SINALOA</td>
+                <td>01    (669) 981-63-54, (669) 981-63-54, EXT. 107</td>
+            </tr>
+            <tr>
+                <td>202</td>
+                <td>SINALOA</td>
+                <td>CECATI   150</td>
+                <td>MARÍA   DE LOS ANGELES POLANCO S/N, COL. CENTRO, C.P. 82400<br>
+                ESCUINAPA, SINALOA.</td>
+                <td>01    (695) 953-22-02, (695) 953-22-02 / 953-23-03</td>
+            </tr>
+            <tr>
+                <td>203</td>
+                <td>SINALOA</td>
+                <td>CETMar   08</td>
+                <td>CORSARIO   I, NO.204, COL. URIAS ESTERO LA SIRENA, C.P. 82099, MAZATLÁN, SINALOA.</td>
+                <td>01    (669) 984-77-28, (669) 984-77-28 / 984-73-90</td>
+            </tr>
+            <tr>
+                <td>204</td>
+                <td>SINALOA</td>
+                <td>CETMar   13</td>
+                <td>KM.   23 AUTOPISTA MOCHIS TOPOLOBAMPO NÚM. 49, C.P. 81370, TOPOLOBAMPO, SINALOA.</td>
+                <td>01    (668) 862-07-47, (668) 862-07-47</td>
+            </tr>
+            <tr>
+                <td>205</td>
+                <td>SINALOA</td>
+                <td>CETMar   28</td>
+                <td>DOMICILIO   CONOCIDO. C.P. 40907, ALTATA,   NAVOLATO, SINALOA.</td>
+                <td>01    (672) 728-90-89, (672) 728-90-89 / 728-91-05</td>
+            </tr>
+            <tr>
+                <td>206</td>
+                <td>SONORA</td>
+                <td>CBTIS   037</td>
+                <td>HIDALGO   2000 PONIENTE, COL. INFONAVIT, C.P. 85120, CD. OBREGÓN, SONORA.</td>
+                <td>01    (644) 415-29-20, (644) 415-29-20 / 413-33-35</td>
+            </tr>
+            <tr>
+                <td>207</td>
+                <td>SONORA</td>
+                <td>CBTIS   063</td>
+                <td>AV.   TECNOLÓGICO S/N, Col. Centro Huatabampo, C.P. 85900, HUATABAMPO, SON.</td>
+                <td>01    (647) 426-08-42, (647) 426-08-42</td>
+            </tr>
+            <tr>
+                <td>208</td>
+                <td>SONORA</td>
+                <td>CBTIS   081</td>
+                <td>CALLE   5 ENTRE AV. 34 Y 36 S/N, COL. DEPORTIVA, C.P. 84230, AGUA PRIETA, SON.</td>
+                <td>01    (633) 338-03-95, (633) 338-03-95 / 338-38-88</td>
+            </tr>
+            <tr>
+                <td>209</td>
+                <td>SONORA</td>
+                <td>CBTIS   132</td>
+                <td>QUINTA   MAYOR Y QUINTA TORCAZA S/N, FRACCIONAMIENTO LAS QUINTAS, C.P.   83240, HERMOSILLO, SONORA</td>
+                <td>01    (662) 260-64-80, (662) 260-64-80</td>
+            </tr>
+            <tr>
+                <td>210</td>
+                <td>SONORA</td>
+                <td>CBTIS   206</td>
+                <td>COLOMBIA   Y POTAM S/N, FRACC CAMINO REAL, C.P. 83178, HERMOSILLO, SONORA</td>
+                <td>01    (662) 219-62-88, (662) 219-62-88 / 216-56-61</td>
+            </tr>
+            <tr>
+                <td>211</td>
+                <td>SONORA</td>
+                <td>CEB   5/12</td>
+                <td>AV.   ARIVECHI Y SARABIA S/N, COL. SONORA, C.P. 85890, NOVOJOA, SONORA</td>
+                <td>01    (642) 422-84-34, (642) 422-84-34</td>
+            </tr>
+            <tr>
+                <td>212</td>
+                <td>SONORA</td>
+                <td>CEB   6/14</td>
+                <td>CLAVELES   Y MARGARITAS MZ. 12, COL. MAXIMILIANO R. LÓPEZ, C.P. 85196, CD. OBREGÓN,   SONORA</td>
+                <td>01    (644) 417-33-03, (644) 417-33-03</td>
+            </tr>
+            <tr>
+                <td>213</td>
+                <td>SONORA</td>
+                <td>CECATI   069</td>
+                <td>INDEPENDENCIA   #103, COL. VILLA DE SERIS, CP. 83280, HERMOSILLO, SONORA</td>
+                <td>01    (662) 250-52-66, (662) 250-52-66</td>
+            </tr>
+            <tr>
+                <td>214</td>
+                <td>SONORA</td>
+                <td>CECATI   094</td>
+                <td>LAGO   TATAROS S/N FRACC. MZ - 65 REAL DEL SOL, CP. 85010 CAJEME CD. OBREGON, SONORA</td>
+                <td>01    (644) 415-20-33, (644) 415-20-33</td>
+            </tr>
+            <tr>
+                <td>215</td>
+                <td>SONORA</td>
+                <td>CECATI   118</td>
+                <td>CARR.   INTERNACIONAL S/N KM 5.5, COL. PARQUE INDUSTRIAL, C.P. 84094, NOGALES, SONORA</td>
+                <td>01    (631) 314-32-47, (631) 314-32-47</td>
+            </tr>
+            <tr>
+                <td>216</td>
+                <td>SONORA</td>
+                <td>CECATI   124</td>
+                <td>CALZ.   MONTERREY S/N, ENTRE LERDO Y AV. IMPERIAL AVIACIÓN, COL SAN LUIS RÍO COLORADO   CENTRO, C.P. 83400, SAN LUIS RÍO COLORADO, SONORA</td>
+                <td>01    (653) 534-77-01, (653) 534-77-01 / 534-88-64</td>
+            </tr>
+            <tr>
+                <td>217</td>
+                <td>SONORA</td>
+                <td>CETIS   128</td>
+                <td>CALLE   DR. MARTÍNEZ OCHOA S/N, COL. EL ROSARIO, C.P. 84020 NOGALES , SON.</td>
+                <td>01    (631) 812-45-78, (631) 812-45-78 / 312-52-50 / 312-45-78</td>
+            </tr>
+            <tr>
+                <td>218</td>
+                <td>SONORA</td>
+                <td>CETMar   03</td>
+                <td>CARR.   A VARADERO NACIONAL DESVIACIÓN CASINO NAVAL, APARTADO POSTAL 742, C.P. 85480,   COL. PLAYITAS GUAYMAS, SONORA</td>
+                <td>01    (622) 221-59-44, (622) 221-59-44 / 221-52-38</td>
+            </tr>
+            <tr>
+                <td>219</td>
+                <td>SONORA</td>
+                <td>CETMar   14</td>
+                <td>AV.   MATAMOROS FINAL Y CAMINO A LAS CONCHAS S/N, APARTADO POSTAL 247, C.P. 83550,   PUERTO PEÑASCO, SONORA.</td>
+                <td>01    (638) 382-00-10, (638) 382-00-10 / 382-03-18</td>
+            </tr>
+            <tr>
+                <td>220</td>
+                <td>SONORA</td>
+                <td>CETMar   22</td>
+                <td>LOMA   DEL FARO S/N, APARTO POSTAL 95, CP. 85900, HUATABAMPO, SONORA.</td>
+                <td>01    (647) 481-00-22, (647) 481-00-22</td>
+            </tr>
+            <tr>
+                <td>221</td>
+                <td>SONORA</td>
+                <td>CETMar   32</td>
+                <td>Dirección   temporal:<br>
+                AV. 16 DE SEPTIEMBRE,CALLE 2DA. S/N, COL. ORIENTE, C.P. 85350, EMPALME,   SONORA<br>
+                <br>
+                Dirección oficial del plantel:<br>
+                <br>
+                BOULEVARD RAMOS FÉLIX S/N, COL. PITIC, C.P. 85310, EMPALME, SONORA</td>
+                <td>01    (622) 113-12-00, (622) 113-12-00 / 221-59-44 / 221-52-38</td>
+            </tr>
+            <tr>
+                <td>222</td>
+                <td>TABASCO</td>
+                <td>CBTIS   163</td>
+                <td>AV.   REVOLUCIÓN S/N, ESQUINA MAESTRO TABASQUEÑO, COL. 18 DE MARZO, C.P. 96150,   VILLAHERMOSA, TABASCO</td>
+                <td>01    (993) 350-06-98, (993) 350-06-98 / 350-63-58</td>
+            </tr>
+            <tr>
+                <td>223</td>
+                <td>TABASCO</td>
+                <td>CBTIS   249</td>
+                <td>DIRECCIÓN   PLANTEL, NIÑOS HÉROES S/N, COL HÉROES DE NACOZARI, C.P. 86901, TENOSIQUE,   TAB.</td>
+                <td>01    (934) 342-24-11, (934) 342-24-11</td>
+            </tr>
+            <tr>
+                <td>224</td>
+                <td>TABASCO</td>
+                <td>CECATI   044</td>
+                <td>AV.   PERIFÉRICO S/N, COL. EL BAJÍO 1RA. SECC., C.P. 86598, CÁRDENAS TABASCO</td>
+                <td>01    (937) 372-44-75, (937) 372-44-75 / 372-85-07</td>
+            </tr>
+            <tr>
+                <td>225</td>
+                <td>TABASCO</td>
+                <td>CETIS   040</td>
+                <td>AV.   DOMINGO COLIN NO.25 FRENTE A LA CIUDAD DEPORTIVA, COL. CENTRO, C.P. 86090,   CUNDUACÁN, TABASCO.</td>
+                <td>01    (914) 336-06-05, (914) 336-06-05 / 336-11-84</td>
+            </tr>
+            <tr>
+                <td>226</td>
+                <td>TABASCO</td>
+                <td>CETMar   19</td>
+                <td>PROLONGACION   CALLE MINA S/N, APARTADO POSTAL NO. 32, C.P. 86750, FRONTERA, TABASCO.</td>
+                <td>01    (913) 332-13-29, (913) 332-13-29 / 332-00-11</td>
+            </tr>
+            <tr>
+                <td>227</td>
+                <td>TAMAULIPAS</td>
+                <td>CBTIS   007</td>
+                <td>1ERO.   DE MAYO Y NARANJOS S/N, COL.PETROLERA, C.P. 88680, REYNOSA,TAMAULIPAS</td>
+                <td>01    (899) 920-35-41, (899) 920-35-41</td>
+            </tr>
+            <tr>
+                <td>228</td>
+                <td>TAMAULIPAS</td>
+                <td>CBTIS   073</td>
+                <td>PROLONGACIÓN   CUAUHTÉMOC ORIENTE Y PEDRO J. MÉNDEZ S/N, COL. FRACC. SAN DIEGO, C.P. 88910,   CD. RÍO BRAVO, TAMAULIPAS.</td>
+                <td>01    (899) 934-07-02, (899) 934-07-02 / 934-34-02</td>
+            </tr>
+            <tr>
+                <td>229</td>
+                <td>TAMAULIPAS</td>
+                <td>CBTIS   164</td>
+                <td>20   DE NOVIEMBRE PTE. 301, COL. AMPLIACIÓN UNIDAD NACIONAL, C.P. 89510, CD.   MADERO TAMAULIPAS</td>
+                <td>01    (833) 211-23-27, (833) 211-23-27 / 211-41-02</td>
+            </tr>
+            <tr>
+                <td>230</td>
+                <td>TAMAULIPAS</td>
+                <td>CBTIS   234</td>
+                <td>CALZADA   REVOLUCIÓN N° 7100, COL. BUENA VISTA, C. P. 88120, NUEVO LAREDO, TAMAULIPAS</td>
+                <td>01    (867) 710-44-77, (867) 710-44-77 / 710-31-03, EXT. 103</td>
+            </tr>
+            <tr>
+                <td>231</td>
+                <td>TAMAULIPAS</td>
+                <td>CBTIS   271</td>
+                <td>AV.   DE LAS NUEVAS TECNOLOGÍAS, MANZANA P S/N, PARQUE TECNOLÓGICO TECNOTAM, SALIDA   A CARR. SOTO LA MARINA, C.P. 87137<br>
+                CD. VICTORIA TAMAULIPAS</td>
+                <td>01(834)   123-08-81 / 123-08-80, EXT. 101</td>
+            </tr>
+            <tr>
+                <td>232</td>
+                <td>TAMAULIPAS</td>
+                <td>CECATI   024</td>
+                <td>AV.   CUAUHTÉMOC NO. 3406, COL. PRIMAVERA, C.P. 89130, TAMPICO, TAMAULIPAS</td>
+                <td>01    (833) 213-08-41, (833) 213-08-41 / 232-76-98 / 213-88-21</td>
+            </tr>
+            <tr>
+                <td>233</td>
+                <td>TAMAULIPAS</td>
+                <td>CECATI   076</td>
+                <td>11   BERRIOZABAL NO. 1117, ZONA CENTRO, CP. 87000, CD. VICTORIA, TAMAULIPAS</td>
+                <td>01    (834) 316-35-27, (834) 316-35-27</td>
+            </tr>
+            <tr>
+                <td>234</td>
+                <td>TAMAULIPAS</td>
+                <td>CECATI   093</td>
+                <td>AV.   20 DE NOVIEMBRE NO. 209, ESQ. BRIGADA   GARCÍA, COL. BENITO JUÁREZ, C.P.   87090, CD. VICTORIA, TAMAULIPAS</td>
+                <td>01    (834) 313-72-10, (834) 313-72-10</td>
+            </tr>
+            <tr>
+                <td>235</td>
+                <td>TAMAULIPAS</td>
+                <td>CECATI   101</td>
+                <td>ALFREDO   BONFIL Y GRAL. LUCIO BLANCO S/N, COL. ENRIQUE CÁRDENAS GONZÁLEZ, C.P. 89810,   CD. MANTE, TAMAULIPAS</td>
+                <td>01    (831) 232-76-98, (831) 232-76-98</td>
+            </tr>
+            <tr>
+                <td>236</td>
+                <td>TAMAULIPAS</td>
+                <td>CECATI   105</td>
+                <td>AV.   DEL MAESTRO Y ROBERTO GUERRA S/N, PRAXEDIS BALBOA, C.P. 87430, MATAMOROS, TAMAULIPAS</td>
+                <td>01    (868) 813-58-24, (868) 813-58-24 / 813-58-19 / 849-14-30</td>
+            </tr>
+            <tr>
+                <td>237</td>
+                <td>TAMAULIPAS</td>
+                <td>CECATI   179</td>
+                <td>CARRETERA   82 KM 17.5 S/N, C.P. 87500, COL. VALLE HERMOSO CENTRO,<br>
+                VALLE HERMOSO, TAMAULIPAS</td>
+                <td>01    (894) 842-22-20, (894) 842-22-20</td>
+            </tr>
+            <tr>
+                <td>238</td>
+                <td>TAMAULIPAS</td>
+                <td>CETIS   078</td>
+                <td>LÁZARO   CÁRDENAS 302, COL. TAMPICO-ALTAMIRA, C.P. 89609, ALTAMIRA, TAMAULIPAS</td>
+                <td>01    (833) 226-67-43, (833) 226-67-43 / 226-55-46, EXT.101</td>
+            </tr>
+            <tr>
+                <td>239</td>
+                <td>TAMAULIPAS</td>
+                <td>CETIS   129</td>
+                <td>CARR.   VICTORIA-MATAMOROS Km 173 S/N, C.P. 87606, COL. PASO REAL SAN FERNANDO,   TAMAULIPAS</td>
+                <td>01    (841) 844-04-66, (841) 844-04-66 / 844-03-89</td>
+            </tr>
+            <tr>
+                <td>240</td>
+                <td>TAMAULIPAS</td>
+                <td>CETMar   09</td>
+                <td>PASO   DOÑA CECILIA Y BLVD. COSTERO, COL. LA BARRA, APARTADO POSTAL 208, C.P. 89540,   CD. MADERO, TAMAULIPAS</td>
+                <td>01    (833) 216-41-69, (833) 216-41-69 / 221-22-66 / 210-59-50</td>
+            </tr>
+            <tr>
+                <td>241</td>
+                <td>TLAXCALA</td>
+                <td>CBTIS   003</td>
+                <td>AV.   UNIVERSIDAD NÚM. 2, COL. LA LOMA XICOHTENCATL, C.P. 90070, TLAXCALA,   TLAXCALA</td>
+                <td>01    (246) 462-01-35, (246) 462-01-35</td>
+            </tr>
+            <tr>
+                <td>242</td>
+                <td>TLAXCALA</td>
+                <td>CBTIS   212</td>
+                <td>AV.   REPÚBLICA DE ARGENTINA NO. 43, 1RA. SECCIÓN, C.P. 90430, TETLA DE LA   SOLIDARIDAD, TLAXCALA</td>
+                <td>01    (241) 422-07-26, (241) 422-07-26 / 412-00-06</td>
+            </tr>
+            <tr>
+                <td>243</td>
+                <td>TLAXCALA</td>
+                <td>CECATI   029</td>
+                <td>AV.   XICOHTENCATL SUR NO. 2701, COL. FÁTIMA, CÓDIGO POSTAL 90359 Ó 90357, APIZACO,   TLAXCALA</td>
+                <td>01    (241) 417-07-03, (241) 417-07-03</td>
+            </tr>
+            <tr>
+                <td>244</td>
+                <td>VERACRUZ</td>
+                <td>CBTIS   013</td>
+                <td>AV.   PRESIDENTE MIGUEL ALEMÁN, ESQUINA VILLA HERMOSA S/N, COL. FERROCARRILERA,   C.P. 91130, XALAPA, VERACRUZ</td>
+                <td>01    (228) 840-34-21, (228) 840-34-21 /  01 (228) 815-17-42, 01 (228) 815-17-42, EXT. 1</td>
+            </tr>
+            <tr>
+                <td>245</td>
+                <td>VERACRUZ</td>
+                <td>CBTIS   047</td>
+                <td>AV.   39 NO. 2725, COL. PARAÍSO, C.P. 94650, CÓRDOBA, VERACRUZ</td>
+                <td>01    (271) 712-54-00, (271) 712-54-00 / 714-19-66</td>
+            </tr>
+            <tr>
+                <td>246</td>
+                <td>VERACRUZ</td>
+                <td>CBTIS   048</td>
+                <td>MARIANO   ABASOLO NO. 104, COL. TAMARINDO C.P. 96040, ACAYUCAN, VERACRUZ</td>
+                <td>01    (924) 245-09-52, (924) 245-09-52 / 245-40-20</td>
+            </tr>
+            <tr>
+                <td>247</td>
+                <td>VERACRUZ</td>
+                <td>CBTIS   066</td>
+                <td>16   DE SEPTIEMBRE ESQ J. RODRÍGUEZ, COL. HOJAS DE MAÍZ C.P. 95110, TIERRA BLANCA,   VERACRUZ.</td>
+                <td>01    (274) 743-09-62, (274) 743-09-62</td>
+            </tr>
+            <tr>
+                <td>248</td>
+                <td>VERACRUZ</td>
+                <td>CBTIS   077</td>
+                <td>CARR.   NAL Y AV.MARCO ANTONIO MUÑOZ S/N, COL. JOSÉ MARÍA MARTÍNEZ, C.P. 95280, LERDO   DE TEJADA, VERACRUZ.</td>
+                <td>01    (284) 944-03-20, (284) 944-03-20</td>
+            </tr>
+            <tr>
+                <td>249</td>
+                <td>VERACRUZ</td>
+                <td>CBTIS   078</td>
+                <td>AV.   VENUSTIANO CARRANZA S/N, COL. REVOLUCIÓN, C.P. 93390, POZA RICA,   VERACRUZ</td>
+                <td>01    (782) 822-74-40, (782) 822-74-40 / 823-32-31</td>
+            </tr>
+            <tr>
+                <td>250</td>
+                <td>VERACRUZ</td>
+                <td>CBTIS   079</td>
+                <td>LORENZO   BARCELATA ESQ MOISES SAENZ COL. EJIDO   1° DE MAYO C.P .94297, BOCA DEL RÍO,   VERACRUZ.</td>
+                <td>01    (229) 921-18-25, (229) 921-18-25 /  01 229 690 24 43, 01 229 690 24 43</td>
+            </tr>
+            <tr>
+                <td>251</td>
+                <td>VERACRUZ</td>
+                <td>CBTIS   190</td>
+                <td>AV.   15 S/N ESQ CALLE 11, COL. VENUSTIANO CARRANZA C.P. 94297, BOCA DEL RÍO,   VERACRUZ.</td>
+                <td>01    (229) 921-48-32, (229) 921-48-32 / 921-48-24</td>
+            </tr>
+            <tr>
+                <td>252</td>
+                <td>VERACRUZ</td>
+                <td>CBTIS   192</td>
+                <td>PROLONGACIÓN   DE ORIENTE 3 S/N, COL. BARRIO SAN JOSÉ, C.P. 94460, IXTACZOQUITLÁN, VERACRUZ.</td>
+                <td>01    (272) 721-05-85, (272) 721-05-85 / 721-23-34</td>
+            </tr>
+            <tr>
+                <td>253</td>
+                <td>VERACRUZ</td>
+                <td>CECATI   042</td>
+                <td>AV.   VERACRUZ NO. 236,COL. LAS BRISAS, C.P. 91809, VERACRUZ, VERACRUZ</td>
+                <td>01    (229) 924-30-70, (229) 924-30-70 / 986-59-02</td>
+            </tr>
+            <tr>
+                <td>254</td>
+                <td>VERACRUZ</td>
+                <td>CECATI   049</td>
+                <td>PROLONG.   DE LA CALLE HIDALGO S/N, COL. SANTA CRUZ BUENA VISTA CP. 94690, CORDOBA, VER.</td>
+                <td>01    (271) 714-58-50, (271) 714-58-50 / 714-77-94</td>
+            </tr>
+            <tr>
+                <td>255</td>
+                <td>VERACRUZ</td>
+                <td>CECATI   072</td>
+                <td>AV.   LIC. JESÚS REYES HEROLES S/N, MARTÍN LANCERO, C.P. 96349, COSOLEACAQUE,   VERACRUZ</td>
+                <td>01    (922) 221-30-57, (922) 221-30-57 / 221-03-83</td>
+            </tr>
+            <tr>
+                <td>256</td>
+                <td>VERACRUZ</td>
+                <td>CECATI   151</td>
+                <td>AV.   GRANADA ESQ. JACARANDAS, COL. ARBOLEDAS DEL SUMIDERO, CP. 91150, XALAPA,   VERACRUZ</td>
+                <td>01    (228) 810-65-16, (228) 810-65-16 / 810-01-22</td>
+            </tr>
+            <tr>
+                <td>257</td>
+                <td>VERACRUZ</td>
+                <td>CECATI   170</td>
+                <td>PONIENTE   14 NO. 121, COL. UNIÓN OBRERA CENTRO, ESCOLAR REVOLUCIÓN, C.P. 94350,   ORIZABA, VERACRUZ</td>
+                <td>01    (272) 725-91-13, (272) 725-91-13</td>
+            </tr>
+            <tr>
+                <td>258</td>
+                <td>VERACRUZ</td>
+                <td>CETIS   015</td>
+                <td>TULIPANES   NO. 141, COL. UNIDAD HABITACIONAL ADOLFO RUIZ CORTINES, C.P. 91810, VERACRUZ,   VERACRUZ</td>
+                <td>01    (229) 934-81-07, (229) 934-81-07</td>
+            </tr>
+            <tr>
+                <td>259</td>
+                <td>VERACRUZ</td>
+                <td>CETIS   111</td>
+                <td>CARR.   LA BARRA KM 7.5 S/N, COL. EJIDO LA CALZADA, C.P. 92888, TUXPAN, VERACRUZ</td>
+                <td>01    (783) 837-01-51, (783) 837-01-51</td>
+            </tr>
+            <tr>
+                <td>260</td>
+                <td>VERACRUZ</td>
+                <td>CETIS   133</td>
+                <td>AV.   SUÁREZ S/N, COL. AVIACIÓN, C.P. 92390, NARANJOS, VERACRUZ.</td>
+                <td>01    (768) 855-19-69, (768) 855-19-69 / 855-39-12</td>
+            </tr>
+            <tr>
+                <td>261</td>
+                <td>VERACRUZ</td>
+                <td>CETMar   01</td>
+                <td>KM.   47 CARRETERA VERACRUZ-ALVARADO, APARTADO POSTAL 002, C.P. 95250, ALVARADO,   VERACRUZ</td>
+                <td>01    (297) 973-07-98, (297) 973-07-98 / 973-37-56</td>
+            </tr>
+            <tr>
+                <td>262</td>
+                <td>VERACRUZ</td>
+                <td>CETMar   15</td>
+                <td>CARR.   ANTIGUA NANCHITAL KM 3.5, COL. CENTRO COATZACOALCOS , APARTADO POSTAL 308,   C.P. 96400, COATZACOALCOS, VERACRUZ O   (Col. Estero del Pantano, Cosoleacaque, Apartado Postal No. 1106)</td>
+                <td>01    (921) 215-81-48, (921) 215-81-48 / 215-81-47 / 215-81-43</td>
+            </tr>
+            <tr>
+                <td>263</td>
+                <td>VERACRUZ</td>
+                <td>CETMar   20</td>
+                <td>CONOCIDO   VIVEROS S/N, COL. AZTECA, CP. 92820, TUXPÁN, VERACRUZ.</td>
+                <td>01    (783) 834-45-45, (783) 834-45-45 / 834-41-65 / 834-16-72</td>
+            </tr>
+            <tr>
+                <td>264</td>
+                <td>YUCATÁN</td>
+                <td>CETIS   019</td>
+                <td>CALLE   28 S/N POR 9 Y 11, C.P. 97862, COL. MEJORADA, TICUL, YUCATÁN.</td>
+                <td>01    (997) 972-09-55, (997) 972-09-55 / 972-24-05</td>
+            </tr>
+            <tr>
+                <td>265</td>
+                <td>YUCATÁN</td>
+                <td>CETIS   112</td>
+                <td>AV.   RAFAEL MATOS ESCOBEDO POR CIRCUITO COLONIAS S/N, COL. LÁZARO CÁRDENAS, C.P.   97157, MÉRIDA, YUCATÁN</td>
+                <td>01    (999) 982-40-90, (999) 982-40-90, EXT. 101 Y 103</td>
+            </tr>
+            <tr>
+                <td>266</td>
+                <td>YUCATÁN</td>
+                <td>CETMar   17</td>
+                <td>ANTIGUA   CARRETERA A CHELEM, K.M. 1.5 AL PUERTO DE ABRIGO, APARTADO POSTAL 41, C.P.   97320, PROGREGO, YUCATÁN.</td>
+                <td>01    (969) 935-31-90, (969) 935-31-90 / 935-31-91</td>
+            </tr>
+            <tr>
+                <td>267</td>
+                <td>ZACATECAS</td>
+                <td>CBTIS   023</td>
+                <td>AV.   BUGAMBILIAS NO. 1, COL. FRACC. GRAL. FELIPE ANGELES, C.P. 98054, ZACATECAS,   ZACATECAS.</td>
+                <td>01    (492) 924-53-31, (492) 924-53-31 / 921-00-16</td>
+            </tr>
+            <tr>
+                <td>268</td>
+                <td>ZACATECAS</td>
+                <td>CECATI   062</td>
+                <td>BLVD.   PASEO DEL MINERAL S/N, 18 DE JULIO, C.P. 99049, FRESNILLO,ZACATECAS</td>
+                <td>01    (493) 932-00-04, (493) 932-00-04</td>
+            </tr>
+            <tr>
+                <td>269</td>
+                <td>ZACATECAS</td>
+                <td>CETIS   113</td>
+                <td>C.   FELIPE ÁNGELES 29, COL. EJIDAL, C.P. 98615<br>
+                GUADALUPE, ZACATECAS</td>
+                <td>01    (492) 923-06-98, (492) 923-06-98</td>
+            </tr>
+            <tr>
+                <td>270</td>
+                <td>ZACATECAS</td>
+                <td>CETIS   114</td>
+                <td>PASEO   ALAMEDA S/N, FRACC. JARDINES DE RAMÓN LÓPEZ VELARDE, C.P. 99390, JEREZ,   ZACATECAS.</td>
+                <td>01    (494) 945-31-98, (494) 945-31-98 / 945-74-85</td>
+            </tr>
+            <tr>
+                <td>271</td>
+                <td>ZACATECAS</td>
+                <td>CETIS   147</td>
+                <td>PROL.   ITURBIDE S/N, COL. EL ROSARIO JALPA,   C.P. 99600, JALPA, ZACATECAS.</td>
+                <td>01    (463) 955-32-86, 463) 955-32-86</td>
+            </tr>
+        </tbody>
+    </table>S, AGUASCALIENTES.	01 (449) 914-53-79 / 912-49-95, EXT. 11
+
+</div>  

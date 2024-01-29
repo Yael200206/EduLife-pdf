@@ -1,0 +1,69 @@
+{% extends "layouts/layoutapp.html" %}
+
+{% block title %}
+INICIO
+{% endblock %}
+{% block style %}
+.tarjeta {
+    width: 300px;
+    border: 2px solid #3498db; /* Contorno azul */
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff; /* Fondo blanco */
+    border-radius: 10px; /* Márgenes redondeados */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sutil sombra */
+    text-align: center;
+    margin-left: 10%;
+
+  }
+
+  .imagen {
+    width: 100%;
+    padding: 0;
+    border: 0;
+  }
+
+  .imagen img {
+    width: 100%; /* Asegura que la imagen sea cuadrada */
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .titulo {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; /* Texto negro */
+  }
+
+  .informacion {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #333; /* Texto negro */
+  }
+
+  .area-trabajo {
+    font-size: 12px;
+    margin-top: 10px;
+    color: #333
+  }
+{% endblock %}
+
+{% block content %}
+
+<div class="item">
+{%for club in clubs%}
+  <div class="tarjeta">
+    <img class="imagen" src="{{club[1]}}" alt="Club 1">
+    <div class="titulo">{{club[2]}}</div>
+    <div class="informacion">
+      <p>Horarios: {{club[3]}}</p>
+      <p>Encargado: {{club[4]}}</p>
+    </div>
+    <div class="area-trabajo">
+      <p>Área de Trabajo: {{club[5]}}</p>
+    </div>
+  </div>
+{%endfor%}
+</div>
+
+{% endblock %}
