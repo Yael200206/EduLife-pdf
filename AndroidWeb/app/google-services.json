@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092101831178",
+    "project_id": "dgtipocket",
+    "storage_bucket": "dgtipocket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092101831178:android:b6f1746cec222a7411bdf3",
+        "android_client_info": {
+          "package_name": "com.web4edu.edulifepocketweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092101831178-g0cuujmg8vni3u3lp2v8e6v4ubefoseo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.web4edu.edulifepocketweb",
+            "certificate_hash": "4646c630d154da95e437b2c13f620e36fd2a8242"
+          }
+        },
+        {
+          "client_id": "1092101831178-hkanj1odjfn44nilqn9loboun4s0u2p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofXAA-Fbmo1SX2aKszjjJjVwOR16isV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092101831178-hkanj1odjfn44nilqn9loboun4s0u2p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
