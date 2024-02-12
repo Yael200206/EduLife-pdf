@@ -11138,6 +11138,66 @@ ALTER TABLE `tutorias`
   ADD CONSTRAINT `fk_tutorias_materias` FOREIGN KEY (`materias_idmaterias`) REFERENCES `materias` (`idmaterias`) ON DELETE CASCADE ON UPDATE CASCADE;
 COMMIT;
 
+DELIMITER $$
+USE `prototipos`$$
+CREATE PROCEDURE `boleta_tc` (in alu int)
+BEGIN
+	select tc.uac, tc.nombre, etc.parcial1, etc.parcial2, etc.parcial3, 
+    etc.asistencia1, etc.asistencia2, etc.asistencia3
+	from materias tc, evaluacion_tc etc
+	where etc.alumnos_idalumnos = alu and 
+    etc.materias_idmaterias = tc.idmaterias and 
+    tc.semestre = (select grado from alumnos where idalumnos = alu);
+END$$
+
+DELIMITER ;
+
+DELIMITER $$
+USE `prototipos`$$
+CREATE PROCEDURE `boleta_m` (in alu int)
+BEGIN
+	select m.uac, m.nombre 
+	from modulos m 
+	where semestre = (select grado from alumnos where idalumnos = alu) and especialidad_idespecialidad = (select especialidad_idespecialidad from grupo where idgrupo = (select grupo_idgrupo from alumnos where idalumnos = alu))
+	group by m.uac;
+END$$
+
+DELIMITER ;
+
+DELIMITER $$
+USE `prototipos`$$
+CREATE PROCEDURE `boleta_e` (in alu int)
+BEGIN
+	select sb.uac, sb.nombre, ee.parcial1, ee.parcial2, ee.parcial3, 
+    ee.asistencia1, ee.asistencia2, ee.asistencia3
+	from submodulos sb, evaluacion_e ee
+	where 
+    ee.alumnos_idalumnos = alu and 
+	ee.submodulos_idsubmodulos = sb.idsubmodulos 
+	and sb.modulos_idmodulos = 
+		(select idmodulos from modulos where semestre = 
+		(select grado from alumnos where idalumnos = alu) and
+		especialidad_idespecialidad = 
+			(select especialidad_idespecialidad from grupo where idgrupo = 
+			(select grupo_idgrupo from alumnos where idalumnos = alu)));
+
+END$$
+
+DELIMITER ;
+
+DELIMITER $$
+USE `prototipos`$$
+CREATE PROCEDURE `turesp` (in con varchar(14))
+BEGIN
+	SELECT CASE WHEN g.turno = 0 THEN 'MATUTINO' ELSE 'VESPERTINO' END AS turno, e.nombre
+	FROM grupo g JOIN especialidad e ON g.especialidad_idespecialidad = e.idespecialidad
+	WHERE g.idgrupo = ( SELECT grupo_idgrupo FROM alumnos WHERE no_control = con );
+END$$
+
+DELIMITER ;
+
+COMMIT;
+
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
