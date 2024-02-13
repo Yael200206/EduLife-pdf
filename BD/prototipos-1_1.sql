@@ -505,10 +505,16 @@ END$$
 
 DELIMITER ;
 
-select g.turno, e.nombre from grupo g, especialidad e
-    where idespecialidad = especialiad_idespecialidad and
-    idgrupo = 
-    (select grupo_idgrupo from alumnos where no_control = '21301061550046');
+DELIMITER $$
+USE `prototipos`$$
+CREATE PROCEDURE `turesp` (in con varchar(14))
+BEGIN
+	SELECT CASE WHEN g.turno = 0 THEN 'MATUTINO' ELSE 'VESPERTINO' END AS turno, e.nombre
+	FROM grupo g JOIN especialidad e ON g.especialidad_idespecialidad = e.idespecialidad
+	WHERE g.idgrupo = ( SELECT grupo_idgrupo FROM alumnos WHERE no_control = con );
+END$$
+
+DELIMITER ;
 
 COMMIT;
 
