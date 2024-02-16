@@ -1650,9 +1650,9 @@ CREATE TABLE IF NOT EXISTS `cuadernillos_has_grupo` (
   `cuadernillos_idcuadernillos` int(11) NOT NULL,
   `grado` varchar(45) NOT NULL,
   `grupo_idgrupo` int(11) NOT NULL,
-  PRIMARY KEY (`cuadernillos_idcuadernillos`,`grupo_idgrupo`),
-  KEY `fk_cuadernillos_has_grupo_grupo1_idx` (`grupo_idgrupo`),
-  KEY `fk_cuadernillos_has_grupo_cuadernillos1_idx` (`cuadernillos_idcuadernillos`)
+  -- PRIMARY KEY (`cuadernillos_idcuadernillos`,`grupo_idgrupo`),
+  -- KEY `grupo_idgrupo` (`grupo_idgrupo`),
+  -- KEY `cuadernillos_idcuadernillos` (`cuadernillos_idcuadernillos`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 -- --------------------------------------------------------
@@ -11091,13 +11091,6 @@ CREATE TABLE IF NOT EXISTS `tutorias` (
 --
 ALTER TABLE `alumnos`
   ADD CONSTRAINT `fk_alumnos_grupo` FOREIGN KEY (`grupo_idgrupo`) REFERENCES `grupo` (`idgrupo`);
-
---
--- Filtros para la tabla `cuadernillos_has_grupo`
---
-ALTER TABLE `cuadernillos_has_grupo`
-  ADD CONSTRAINT `fk_cuadernillos_has_grupo_cuadernillos1` FOREIGN KEY (`cuadernillos_idcuadernillos`) REFERENCES `cuadernillos` (`idcuadernillos`) ON DELETE NO ACTION ON UPDATE NO ACTION,
-  ADD CONSTRAINT `fk_cuadernillos_has_grupo_grupo1` FOREIGN KEY (`grupo_idgrupo`) REFERENCES `grupo` (`idgrupo`) ON DELETE NO ACTION ON UPDATE NO ACTION;
 
 --
 -- Filtros para la tabla `evaluacion_e`
