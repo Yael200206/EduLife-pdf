@@ -11147,12 +11147,13 @@ DELIMITER ;
 
 DELIMITER $$
 USE `prototipos`$$
+DROP procedure IF EXISTS `boleta_m`;
 CREATE PROCEDURE `boleta_m` (in alu int)
 BEGIN
 	select m.uac, m.nombre 
 	from modulos m 
 	where semestre = (select grado from alumnos where idalumnos = alu) and especialidad_idespecialidad = (select especialidad_idespecialidad from grupo where idgrupo = (select grupo_idgrupo from alumnos where idalumnos = alu))
-	group by m.uac;
+	group by m.uac, m.nombre;
 END$$
 
 DELIMITER ;
@@ -11193,6 +11194,7 @@ COMMIT;
 
 USE `prototipos`;
 DROP procedure IF EXISTS `prototipos`.`ha_tc`;
+;
 
 DELIMITER $$
 USE `prototipos`$$
@@ -11200,12 +11202,15 @@ CREATE DEFINER=`root`@`localhost` PROCEDURE `ha_tc`(in alu int)
 BEGIN
 	select tc.uac, tc.semestre, tc.nombre, 
     CAST(avg((etc.parcial1 + etc.parcial2 + etc.parcial3)/3) AS SIGNED) as Calif, 
-    tc.horas, etc.periodo
+    tc.horas, etc.periodo, etc.acreditacion
 	from materias tc, evaluacion_tc etc
 	where etc.alumnos_idalumnos = alu and 
     etc.materias_idmaterias = tc.idmaterias
-    GROUP BY tc.uac, tc.semestre, tc.nombre, tc.horas, etc.periodo;
+    GROUP BY tc.uac, tc.semestre, tc.nombre, tc.horas, etc.periodo, etc.acreditacion;
 END$$
+
+DELIMITER ;
+;
 
 USE `prototipos`;
 DROP procedure IF EXISTS `ha_e`;
@@ -11216,46 +11221,17 @@ CREATE DEFINER=`root`@`localhost` PROCEDURE `ha_e`(in alu int)
 BEGIN
 	select m.uac, m.semestre, m.nombre, 
     CAST(avg((ee.parcial1 + ee.parcial2 + ee.parcial3)/3) AS SIGNED) as Calif, 
-    m.horas, ee.periodo
+    m.horas, ee.periodo, ee.acreditacion
 	from modulos m, evaluacion_e ee, submodulos sb
 	where 
     ee.alumnos_idalumnos = alu and 
 	ee.submodulos_idsubmodulos = sb.idsubmodulos and
     m.idmodulos = sb.modulos_idmodulos
-	group by m.uac, m.semestre, m.nombre, m.horas, ee.periodo;
+	group by m.uac, m.semestre, m.nombre, m.horas, ee.periodo, ee.acreditacion;
 END$$
 
 DELIMITER ;
 ;
-
-USE `prototipos`;
-DROP procedure IF EXISTS `ha_a`;
-
-DELIMITER $$
-USE `prototipos`$$
-CREATE PROCEDURE `ha_a` (IN alu INT)
-BEGIN
-    -- Calcular la suma de horas de materias y submodulos
-    SELECT SUM(tc.horas + sb.horas) AS horas_sem
-    FROM materias tc
-    JOIN submodulos sb ON tc.alumnos_idalumnos = sb.alumnos_idalumnos
-    JOIN alumnos a ON tc.alumnos_idalumnos = a.idalumnos
-    WHERE a.idalumnos = alu;
-
-    -- Contar las acreditadas
-    SELECT COUNT(*) AS acreditadas
-    FROM evaluacion_tc tc
-    JOIN evaluacion_e e ON tc.acreditacion = e.acreditacion
-    WHERE e.acreditacion = 'A';
-
-    -- Contar las no acreditadas
-    SELECT COUNT(*) AS no_acreditadas
-    FROM evaluacion_tc tc
-    JOIN evaluacion_e e ON tc.acreditacion = e.acreditacion
-    WHERE e.acreditacion IN ('NA', 'NP');
-END;$$
-
-DELIMITER ;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
